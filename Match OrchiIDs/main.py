@@ -68,7 +68,9 @@ def check_org_match(target_org, researcher_orgs, threshold=70):
     best_match = None
     best_score = 0
     
+    print("RESEARCH ORGS:", researcher_orgs)
     for org in researcher_orgs:
+        print("ORG_I", org)
         print(f"CALCULATING SCORE BETWEEN {target_org} and {org['name']}")
         score = fuzz.token_sort_ratio(target_org.lower(), org['name'].lower())
         print(f"RECEIVED SCORE: {score}")
@@ -86,34 +88,33 @@ def search_researcher(first_name, last_name, target_org):
     and last_name = "{last_name}"
     return researchers[id + first_name + last_name + current_research_org + orcid_id + research_orgs]
     """
-    
+    ret_list = []
+
     try:
         print(f"\nSearching for: {first_name} {last_name}")
         results = dsl.query(query)
         
         if len(results.researchers) > 0:
             for researcher in results.researchers:
-                print(f"\nFound: {researcher['first_name']} {researcher['last_name']}")
+                # print(f"\nFound: {researcher['first_name']} {researcher['last_name']}")
                 
                 # Check organization matches
-                if 'research_orgs' in researcher:
-                    has_match, match_details = check_org_match(target_org, researcher['research_orgs'])
-                    print("BEST_MATCH", match_details)
-                
-                if 'current_research_org' in researcher:
-                    print(f"Current org: {researcher['current_research_org']}")
-                if 'orcid_id' in researcher:
-                    print(f"ORCID: {researcher['orcid_id']}")
-                print("---")
+                assert not (('research_orgs' in researcher) ^ ('current_research_org' in researcher))
+
+                if 'orcid_id' in researcher and 'research_orgs' in researcher:
+                    ret_list.append({
+                        'research_orgs' : researcher['research_orgs'], 
+                        'orcid_id' : researcher['orcid_id']
+                    })
         else:
             print("No results found")
             
         time.sleep(1)  # Rate limiting
-        return results.researchers if len(results.researchers) > 0 else None
+        return results.researchers, ret_list
         
     except Exception as e:
         print(f"Error searching for {first_name} {last_name}: {str(e)}")
-        return None
+        return [], []
 
 if __name__ == "__main__":
     # Load environment variables from .env
@@ -135,7 +136,10 @@ if __name__ == "__main__":
 
 
     # Process each author-affiliation pair
-    for first_author_i, first_affiliation_i in zip(first_author_list, first_affiliation_list):
+
+    processed_list = []
+    no_dim_count = 0
+    for i, (first_author_i, first_affiliation_i) in enumerate(zip(first_author_list, first_affiliation_list)):
         print(f"\nProcessing: {first_author_i}")
         print(f"Affiliation: {first_affiliation_i}")
         
@@ -143,14 +147,34 @@ if __name__ == "__main__":
         name_parts = first_author_i.split(", ")
         if len(name_parts) == 2:
             last_name, first_name = name_parts
-            researchers = search_researcher(first_name.strip(), last_name.strip(), first_affiliation_i)
-
-            if researchers:
-                print("\nMatches found!")
-                break
-
-            else:
-                print("\nNo matches found")
+            raw_list, ret_list = search_researcher(first_name.strip(), last_name.strip(), first_affiliation_i)
+            #check raw_list length is 1
+            if len(raw_list) == 0:
+                no_dim_count += 1
+                continue 
+            elif len(raw_list) >= 1:
+                best_has_match, best_match_details = None, (None, -1)
+                for item_i in ret_list:
+                    orgs_i, orcid_i = item_i['research_orgs'], item_i['orcid_id']
+                    has_match, match_details = check_org_match(first_affiliation_i, orgs_i)
+                    print(f"HAS_MATCH {has_match}, {match_details}")
+                    if match_details[1] > best_match_details[1]:
+                        best_has_match, best_match_details = has_match, match_details
+            
+                processed_list.append({
+                    'first_author': first_author_i,
+                    'first_affiliation': first_affiliation_i,
+                    'raw_list' : raw_list,
+                    'has_match': best_has_match,
+                    'match_details': best_match_details
+                })
         else:
             print(f"Unexpected name format: {first_author_i}")
+
+        if i > 100:
+            break
+    print("No Dim Count", no_dim_count)
+
+    # Save processed list to CSV
+    pd.DataFrame(processed_list).to_csv('processed.csv', index=False)
 
