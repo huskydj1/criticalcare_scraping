@@ -72,7 +72,10 @@ def check_org_match(target_org, researcher_orgs, threshold=70):
     for org in researcher_orgs:
         print("ORG_I", org)
         print(f"CALCULATING SCORE BETWEEN {target_org} and {org['name']}")
-        score = fuzz.token_sort_ratio(target_org.lower(), org['name'].lower())
+        score = max(
+            fuzz.token_sort_ratio(target_org.lower(), org['name'].lower()),
+            fuzz.partial_ratio(target_org.lower(), org['name'].lower())
+        )
         print(f"RECEIVED SCORE: {score}")
         if score > best_score:
             best_score = score
@@ -142,12 +145,14 @@ if __name__ == "__main__":
     for i, (first_author_i, first_affiliation_i) in enumerate(zip(first_author_list, first_affiliation_list)):
         print(f"\nProcessing: {first_author_i}")
         print(f"Affiliation: {first_affiliation_i}")
+       
+        first_institution_i = first_affiliation_i.strip().split(',')[0]
         
         # Split name into parts (assuming format is "Last, First")
         name_parts = first_author_i.split(", ")
         if len(name_parts) == 2:
             last_name, first_name = name_parts
-            raw_list, ret_list = search_researcher(first_name.strip(), last_name.strip(), first_affiliation_i)
+            raw_list, ret_list = search_researcher(first_name.strip(), last_name.strip(), first_institution_i)
             #check raw_list length is 1
             if len(raw_list) == 0:
                 no_dim_count += 1
@@ -163,6 +168,7 @@ if __name__ == "__main__":
             
                 processed_list.append({
                     'first_author': first_author_i,
+                    'first_institution': first_institution_i,
                     'first_affiliation': first_affiliation_i,
                     'raw_list' : raw_list,
                     'has_match': best_has_match,
