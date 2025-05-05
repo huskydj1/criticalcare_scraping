@@ -1,0 +1,1362 @@
+name,first_publication_year,career_stage,gender,orcid_id,year,times_cited,coauthor_M,coauthor_F,coauthor_count,coauthor_country,group
+Wanchun Tang,1990.0,Senior,F,0000-0003-3940-6369,2017,6,5,3,8,"{'China': 12, 'United States': 1}",Control
+Wanchun Tang,1990.0,Senior,F,0000-0003-3940-6369,2017,4,6,2,8,"{'China': 10, 'United States': 2}",Control
+Wanchun Tang,1990.0,Senior,F,0000-0003-3940-6369,2017,20,1,2,9,{'United States': 9},Control
+Wanchun Tang,1990.0,Senior,F,0000-0003-3940-6369,2017,7,8,2,10,{'China': 10},Control
+Nadir Yehya,2004.0,Mid,M,0000-0002-2996-217X,2023,0,1,3,4,{'United States': 4},Control
+Nadir Yehya,2004.0,Mid,M,0000-0002-2996-217X,2023,0,3,1,5,"{'United States': 4, 'Tunisia': 1}",Control
+Nadir Yehya,2004.0,Mid,M,0000-0002-2996-217X,2023,0,2,2,4,{'United States': 4},Control
+Nadir Yehya,2004.0,Mid,M,0000-0002-2996-217X,2023,0,2,3,5,{'United States': 5},Control
+Nadir Yehya,2004.0,Mid,M,0000-0002-2996-217X,2023,0,1,1,2,{'United States': 2},Control
+Nadir Yehya,2004.0,Mid,M,0000-0002-2996-217X,2023,0,2,2,4,{'United States': 4},Control
+Nadir Yehya,2004.0,Mid,M,0000-0002-2996-217X,2023,16,4,0,12,{'United States': 14},Control
+Nadir Yehya,2004.0,Mid,M,0000-0002-2996-217X,2023,7,2,0,7,{'United States': 14},Control
+Nadir Yehya,2004.0,Mid,M,0000-0002-2996-217X,2023,1,1,0,2,{'United States': 3},Control
+Nadir Yehya,2004.0,Mid,M,0000-0002-2996-217X,2023,4,3,2,11,{'United States': 11},Control
+Nadir Yehya,2004.0,Mid,M,0000-0002-2996-217X,2023,4,6,1,11,{'United States': 22},Control
+Nadir Yehya,2004.0,Mid,M,0000-0002-2996-217X,2023,2,1,0,7,{'United States': 11},Control
+Nadir Yehya,2004.0,Mid,M,0000-0002-2996-217X,2023,7,1,0,6,{'United States': 8},Control
+Nadir Yehya,2004.0,Mid,M,0000-0002-2996-217X,2023,3,2,3,11,{'United States': 21},Control
+Nadir Yehya,2004.0,Mid,M,0000-0002-2996-217X,2023,6,2,0,6,{'United States': 11},Control
+Nadir Yehya,2004.0,Mid,M,0000-0002-2996-217X,2023,0,7,0,7,{'United States': 7},Control
+Nadir Yehya,2004.0,Mid,M,0000-0002-2996-217X,2023,0,5,0,5,{'United States': 5},Control
+Nadir Yehya,2004.0,Mid,M,0000-0002-2996-217X,2023,0,4,0,4,{'United States': 4},Control
+Nadir Yehya,2004.0,Mid,M,0000-0002-2996-217X,2023,2,2,1,10,{'United States': 23},Control
+Nadir Yehya,2004.0,Mid,M,0000-0002-2996-217X,2023,11,3,3,12,"{'Pakistan': 6, 'United States': 10}",Control
+Manette Ness-Cochinwala,2018.0,Early,F,0000-0003-3612-9722,2023,0,5,11,18,{'United States': 15},Control
+Manette Ness-Cochinwala,2018.0,Early,F,0000-0003-3612-9722,2023,0,5,11,18,{'United States': 15},Control
+Manette Ness-Cochinwala,2018.0,Early,F,0000-0003-3612-9722,2023,16,7,4,25,{'United States': 26},Control
+Manette Ness-Cochinwala,2018.0,Early,F,0000-0003-3612-9722,2023,551,130,237,825,"{'United States': 179, 'Norfolk Island': 1}",Control
+Manette Ness-Cochinwala,2018.0,Early,F,0000-0003-3612-9722,2023,4,15,27,142,"{'United States': 144, 'Canada': 2}",Control
+Tuqa Alkhateeb,2017.0,Early,F,0000-0002-3507-1576,2023,0,1,4,6,{'United States': 6},Control
+Tuqa Alkhateeb,2017.0,Early,F,0000-0002-3507-1576,2017,0,0,1,10,{},Control
+Tuqa Alkhateeb,2017.0,Early,F,0000-0002-3507-1576,2023,2,0,1,5,{'United States': 8},Control
+Niranjan Vijayakumar,2019.0,Early,M,0000-0002-6529-7779,2023,0,12,7,20,{'United States': 16},Control
+Niranjan Vijayakumar,2019.0,Early,M,0000-0002-6529-7779,2023,2,8,7,25,{'United States': 53},Control
+Sarah Peacock,2023.0,Early,F,0000-0001-5611-8284,2023,0,1,4,8,"{'United States': 7, 'Argentina': 1}",Control
+Won-Yeon Lee,1994.0,Senior,M,0000-0002-5461-6770,2023,5,12,1,25,"{'Singapore': 3, 'India': 2, 'Japan': 1, 'Iran': 1, 'South Korea': 1, 'Thailand': 5, 'Saudi Arabia': 1, 'Taiwan': 2, 'Kazakhstan': 2, 'Pakistan': 1, 'Philippines': 1, 'Bangladesh': 1, 'Nepal': 2, 'Malaysia': 1, 'Myanmar': 1, 'China': 1, 'Sri Lanka': 1, 'United Kingdom': 1, 'Oman': 1, 'Mongolia': 1}",Control
+Won-Yeon Lee,1994.0,Senior,M,0000-0002-5461-6770,2023,3,3,0,6,{'South Korea': 7},Control
+Won-Yeon Lee,1994.0,Senior,M,0000-0002-5461-6770,2023,4,1,2,10,{'South Korea': 14},Control
+Won-Yeon Lee,1994.0,Senior,M,0000-0002-5461-6770,2023,0,0,1,10,{'South Korea': 13},Control
+Won-Yeon Lee,1994.0,Senior,M,0000-0002-5461-6770,2023,11,4,1,20,{'South Korea': 48},Control
+Won-Yeon Lee,1994.0,Senior,M,0000-0002-5461-6770,2023,0,5,1,8,{},Control
+Won-Yeon Lee,1994.0,Senior,M,0000-0002-5461-6770,2023,3,5,1,8,{'South Korea': 8},Control
+Won-Yeon Lee,1994.0,Senior,M,0000-0002-5461-6770,2023,1,2,0,3,{'South Korea': 3},Control
+Won-Yeon Lee,1994.0,Senior,M,0000-0002-5461-6770,2023,13,3,3,13,{'South Korea': 16},Control
+Won-Yeon Lee,1994.0,Senior,M,0000-0002-5461-6770,2023,6,8,2,30,{'South Korea': 39},Control
+Won-Yeon Lee,1994.0,Senior,M,0000-0002-5461-6770,2017,3,3,1,17,{'South Korea': 22},Control
+Won-Yeon Lee,1994.0,Senior,M,0000-0002-5461-6770,2017,0,3,0,5,{'South Korea': 5},Control
+Won-Yeon Lee,1994.0,Senior,M,0000-0002-5461-6770,2017,0,1,1,9,{},Control
+Won-Yeon Lee,1994.0,Senior,M,0000-0002-5461-6770,2017,0,1,0,10,{},Control
+Won-Yeon Lee,1994.0,Senior,M,0000-0002-5461-6770,2017,25,2,0,10,{'South Korea': 11},Control
+Won-Yeon Lee,1994.0,Senior,M,0000-0002-5461-6770,2017,0,2,0,6,{},Control
+Won-Yeon Lee,1994.0,Senior,M,0000-0002-5461-6770,2017,6,2,0,6,{'South Korea': 7},Control
+Won-Yeon Lee,1994.0,Senior,M,0000-0002-5461-6770,2017,48,2,1,10,{'South Korea': 11},Control
+Won-Yeon Lee,1994.0,Senior,M,0000-0002-5461-6770,2017,37,2,0,6,{'South Korea': 6},Control
+Abhinav Mittal,2017.0,Early,M,0000-0002-8683-6452,2023,4,8,1,9,{'United States': 17},Control
+Abhinav Mittal,2017.0,Early,M,0000-0002-8683-6452,2017,1,3,1,4,{'United States': 4},Control
+Abhinav Mittal,2017.0,Early,M,0000-0002-8683-6452,2017,1,3,1,4,{'United States': 4},Control
+Stacy Pasciolla,2020.0,Early,F,0000-0002-8109-7347,2023,0,3,4,8,{'United States': 8},Control
+Stacy Pasciolla,2020.0,Early,F,0000-0002-8109-7347,2023,2,1,3,6,{'United States': 6},Control
+Stacy Pasciolla,2020.0,Early,F,0000-0002-8109-7347,2023,2,3,3,8,{'United States': 13},Control
+Alyson Katz,2020.0,Early,F,0000-0002-7177-4631,2023,0,5,3,8,{'United States': 4},Control
+Alyson Katz,2020.0,Early,F,0000-0002-7177-4631,2023,0,5,2,7,{'United States': 6},Control
+Alyson Katz,2020.0,Early,F,0000-0002-7177-4631,2023,0,3,6,10,{'United States': 10},Control
+Alyson Katz,2020.0,Early,F,0000-0002-7177-4631,2023,6,5,3,8,{'United States': 9},Control
+Alyson Katz,2020.0,Early,F,0000-0002-7177-4631,2023,0,5,0,5,{},Control
+Niranjan Vijayakumar,2019.0,Early,M,0000-0002-6529-7779,2023,0,12,7,20,{'United States': 16},Control
+Niranjan Vijayakumar,2019.0,Early,M,0000-0002-6529-7779,2023,2,8,7,25,{'United States': 53},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,0,1,0,4,"{'United States': 5, 'Mexico': 1}",Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,0,5,5,12,{'United States': 12},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,0,3,1,5,{'United States': 2},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,3,1,1,5,{'United States': 9},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,0,1,0,4,{'United States': 2},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,1,2,0,5,"{'United States': 4, 'Mexico': 1}",Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,4,2,0,7,{'United States': 12},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,0,3,0,3,{'United States': 5},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,0,2,0,5,{'United States': 2},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,0,4,0,5,{'United States': 2},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,0,1,0,5,"{'Mexico': 1, 'United States': 4}",Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,4,3,3,10,"{'United States': 12, 'Mexico': 1}",Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,2,3,3,7,{'United States': 7},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,8,6,2,16,{'United States': 17},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,4,3,0,6,"{'Mexico': 2, 'United States': 8}",Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,0,3,0,4,{'United States': 11},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,4,3,1,7,{'United States': 9},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,2,8,7,25,{'United States': 53},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2017,1,1,0,2,{'United States': 4},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2017,6,1,0,2,{'United States': 4},Control
+Jiuann-Huey Lin,1998.0,Senior,U,0000-0003-3029-6079,2023,9,4,2,9,{'United States': 11},Control
+Jiuann-Huey Lin,1998.0,Senior,U,0000-0003-3029-6079,2023,11,1,0,16,"{'United States': 21, 'Canada': 1}",Control
+Jiuann-Huey Lin,1998.0,Senior,U,0000-0003-3029-6079,2023,1,0,1,2,{'United States': 2},Control
+Jiuann-Huey Lin,1998.0,Senior,U,0000-0003-3029-6079,2023,1,0,3,6,"{'United States': 7, 'China': 1}",Control
+Niranjan Vijayakumar,2019.0,Early,M,0000-0002-6529-7779,2023,0,12,7,20,{'United States': 16},Control
+Niranjan Vijayakumar,2019.0,Early,M,0000-0002-6529-7779,2023,2,8,7,25,{'United States': 53},Control
+Nikola Dragisic,2020.0,Early,M,0000-0002-9958-3212,2023,1,1,1,4,{'United States': 4},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,0,1,0,4,"{'United States': 5, 'Mexico': 1}",Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,0,5,5,12,{'United States': 12},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,0,3,1,5,{'United States': 2},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,3,1,1,5,{'United States': 9},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,0,1,0,4,{'United States': 2},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,1,2,0,5,"{'United States': 4, 'Mexico': 1}",Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,4,2,0,7,{'United States': 12},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,0,3,0,3,{'United States': 5},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,0,2,0,5,{'United States': 2},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,0,4,0,5,{'United States': 2},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,0,1,0,5,"{'Mexico': 1, 'United States': 4}",Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,4,3,3,10,"{'United States': 12, 'Mexico': 1}",Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,2,3,3,7,{'United States': 7},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,8,6,2,16,{'United States': 17},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,4,3,0,6,"{'Mexico': 2, 'United States': 8}",Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,0,3,0,4,{'United States': 11},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,4,3,1,7,{'United States': 9},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,2,8,7,25,{'United States': 53},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2017,1,1,0,2,{'United States': 4},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2017,6,1,0,2,{'United States': 4},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,0,1,0,4,"{'United States': 5, 'Mexico': 1}",Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,0,5,5,12,{'United States': 12},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,0,3,1,5,{'United States': 2},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,3,1,1,5,{'United States': 9},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,0,1,0,4,{'United States': 2},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,1,2,0,5,"{'United States': 4, 'Mexico': 1}",Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,4,2,0,7,{'United States': 12},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,0,3,0,3,{'United States': 5},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,0,2,0,5,{'United States': 2},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,0,4,0,5,{'United States': 2},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,0,1,0,5,"{'Mexico': 1, 'United States': 4}",Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,4,3,3,10,"{'United States': 12, 'Mexico': 1}",Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,2,3,3,7,{'United States': 7},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,8,6,2,16,{'United States': 17},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,4,3,0,6,"{'Mexico': 2, 'United States': 8}",Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,0,3,0,4,{'United States': 11},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,4,3,1,7,{'United States': 9},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2023,2,8,7,25,{'United States': 53},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2017,1,1,0,2,{'United States': 4},Control
+Saul Flores,2014.0,Early,M,0000-0002-6274-5775,2017,6,1,0,2,{'United States': 4},Control
+Breyanna Reachi,2020.0,Early,F,0000-0001-5707-2679,2023,8,3,2,6,{'United States': 6},Control
+Ashwini Arjuna,2016.0,Early,F,0000-0002-4171-3184,2023,1,2,3,5,{'United States': 1},Control
+Ashwini Arjuna,2016.0,Early,F,0000-0002-4171-3184,2023,1,0,4,4,{'United States': 2},Control
+Ashwini Arjuna,2016.0,Early,F,0000-0002-4171-3184,2023,0,3,2,5,{'United States': 4},Control
+Ashwini Arjuna,2016.0,Early,F,0000-0002-4171-3184,2023,5,6,8,14,{'United States': 24},Control
+Ashwini Arjuna,2016.0,Early,F,0000-0002-4171-3184,2023,0,1,1,4,{},Control
+Ashwini Arjuna,2016.0,Early,F,0000-0002-4171-3184,2023,0,0,2,4,{},Control
+Ashwini Arjuna,2016.0,Early,F,0000-0002-4171-3184,2023,0,2,2,6,{},Control
+Ashwini Arjuna,2016.0,Early,F,0000-0002-4171-3184,2023,0,1,3,5,{},Control
+Ashwini Arjuna,2016.0,Early,F,0000-0002-4171-3184,2023,0,0,1,4,{},Control
+Ashwini Arjuna,2016.0,Early,F,0000-0002-4171-3184,2023,0,1,2,3,{},Control
+Ashwini Arjuna,2016.0,Early,F,0000-0002-4171-3184,2023,0,1,3,4,{},Control
+Ashwini Arjuna,2016.0,Early,F,0000-0002-4171-3184,2023,0,0,2,5,{},Control
+Ashwini Arjuna,2016.0,Early,F,0000-0002-4171-3184,2023,0,1,3,5,{},Control
+Ashwini Arjuna,2016.0,Early,F,0000-0002-4171-3184,2023,2,6,3,9,{'United States': 9},Control
+Ashwini Arjuna,2016.0,Early,F,0000-0002-4171-3184,2023,0,4,0,4,{'United States': 4},Control
+Ashwini Arjuna,2016.0,Early,F,0000-0002-4171-3184,2023,0,4,0,4,{'United States': 4},Control
+Ashwini Arjuna,2016.0,Early,F,0000-0002-4171-3184,2023,0,5,0,5,{'United States': 5},Control
+Ashwini Arjuna,2016.0,Early,F,0000-0002-4171-3184,2023,0,5,0,5,{'United States': 5},Control
+Ashwini Arjuna,2016.0,Early,F,0000-0002-4171-3184,2023,1,4,0,4,{'United States': 4},Control
+Ashwini Arjuna,2016.0,Early,F,0000-0002-4171-3184,2023,0,5,0,5,{'United States': 5},Control
+Nasim Motayar,2015.0,Early,M,0009-0005-7344-6964,2023,0,6,0,6,{'United States': 6},Control
+Behzad Amoozgar,2010.0,Mid,M,0000-0001-5888-3473,2023,7,8,15,40,{'United States': 40},Control
+Behzad Amoozgar,2010.0,Mid,M,0000-0001-5888-3473,2023,1,6,3,24,{'United States': 27},Control
+Behzad Amoozgar,2010.0,Mid,M,0000-0001-5888-3473,2023,24,6,6,24,{'United States': 25},Control
+Behzad Amoozgar,2010.0,Mid,M,0000-0001-5888-3473,2017,1,1,1,3,{},Control
+Behzad Amoozgar,2010.0,Mid,M,0000-0001-5888-3473,2017,96,3,3,7,"{'United States': 6, 'China': 1}",Control
+Behzad Amoozgar,2010.0,Mid,M,0000-0001-5888-3473,2017,35,4,0,5,"{'United States': 7, 'China': 1}",Control
+Behzad Amoozgar,2010.0,Mid,M,0000-0001-5888-3473,2017,19,6,3,10,{'United States': 10},Control
+Behzad Amoozgar,2010.0,Mid,M,0000-0001-5888-3473,2017,40,1,1,4,{'United States': 4},Control
+Behzad Amoozgar,2010.0,Mid,M,0000-0001-5888-3473,2017,8,2,1,4,"{'United States': 3, 'Iran': 1}",Control
+Behzad Amoozgar,2010.0,Mid,M,0000-0001-5888-3473,2017,2,1,3,4,{'United States': 4},Control
+Eugene Oreshnikov,2009.0,Mid,M,0000-0001-8503-0783,2023,0,2,3,5,{},Control
+Eugene Oreshnikov,2009.0,Mid,M,0000-0001-8503-0783,2023,0,2,3,5,{},Control
+Eugene Oreshnikov,2009.0,Mid,M,0000-0001-8503-0783,2023,0,2,3,5,{},Control
+Varidhi Nauriyal,2019.0,Early,M,0000-0003-3356-4964,2023,2,4,1,10,{'United States': 15},Control
+Sarah Piel,2013.0,Early,F,0000-0002-1779-3532,2023,3,1,4,11,"{'United States': 10, 'Sweden': 3}",Control
+Sarah Piel,2013.0,Early,F,0000-0002-1779-3532,2023,2,7,4,18,{'United States': 27},Control
+Sarah Piel,2013.0,Early,F,0000-0002-1779-3532,2023,3,0,5,11,"{'United States': 11, 'Sweden': 3}",Control
+Ameer Al-Hadidi,2016.0,Early,M,0000-0002-2416-6449,2023,1,4,4,9,{'United States': 9},Control
+Ameer Al-Hadidi,2016.0,Early,M,0000-0002-2416-6449,2023,5,7,10,39,"{'United States': 40, 'Canada': 4}",Control
+Ameer Al-Hadidi,2016.0,Early,M,0000-0002-2416-6449,2023,4,6,1,15,{'United States': 19},Control
+Morta Lapkus,2015.0,Early,M,0000-0002-1257-4357,2023,0,2,6,9,{'United States': 16},Control
+Morta Lapkus,2015.0,Early,M,0000-0002-1257-4357,2023,2,2,6,9,{'United States': 16},Control
+Muhammad Sameed,2018.0,Early,M,0000-0003-3166-9674,2023,3,2,0,3,{'United States': 5},Control
+Muhammad Sameed,2018.0,Early,M,0000-0003-3166-9674,2023,0,3,0,3,{'United States': 3},Control
+Muhammad Sameed,2018.0,Early,M,0000-0003-3166-9674,2023,0,6,0,6,{'United States': 6},Control
+Muhammad Sameed,2018.0,Early,M,0000-0003-3166-9674,2023,0,2,0,4,{'United States': 4},Control
+Sophia Pathan,2019.0,Early,F,0000-0003-3451-1987,2023,1,0,1,1,{'United States': 1},Control
+Anirban Bhattacharyya,2010.0,Mid,M,0000-0002-1646-709X,2023,0,5,0,8,"{'United States': 8, 'Canada': 1}",Control
+Anirban Bhattacharyya,2010.0,Mid,M,0000-0002-1646-709X,2023,0,8,6,25,{'United States': 25},Control
+Anirban Bhattacharyya,2010.0,Mid,M,0000-0002-1646-709X,2023,0,6,1,8,{'United States': 8},Control
+Anirban Bhattacharyya,2010.0,Mid,M,0000-0002-1646-709X,2023,0,8,8,19,{'United States': 17},Control
+Anirban Bhattacharyya,2010.0,Mid,M,0000-0002-1646-709X,2023,0,9,7,20,{'United States': 19},Control
+Anirban Bhattacharyya,2010.0,Mid,M,0000-0002-1646-709X,2023,1,4,0,6,{'United States': 6},Control
+Anirban Bhattacharyya,2010.0,Mid,M,0000-0002-1646-709X,2023,0,9,4,20,{'United States': 18},Control
+Anirban Bhattacharyya,2010.0,Mid,M,0000-0002-1646-709X,2023,0,9,6,20,{'United States': 18},Control
+Anirban Bhattacharyya,2010.0,Mid,M,0000-0002-1646-709X,2023,0,9,7,18,{'United States': 18},Control
+Anirban Bhattacharyya,2010.0,Mid,M,0000-0002-1646-709X,2023,0,9,5,31,{'United States': 31},Control
+Anirban Bhattacharyya,2010.0,Mid,M,0000-0002-1646-709X,2023,2,9,3,18,{'United States': 18},Control
+Anirban Bhattacharyya,2010.0,Mid,M,0000-0002-1646-709X,2023,3,5,0,8,"{'United States': 7, 'Canada': 1}",Control
+Anirban Bhattacharyya,2010.0,Mid,M,0000-0002-1646-709X,2023,0,7,4,15,{},Control
+Anirban Bhattacharyya,2010.0,Mid,M,0000-0002-1646-709X,2023,0,14,4,24,{},Control
+Anirban Bhattacharyya,2010.0,Mid,M,0000-0002-1646-709X,2023,0,11,6,24,{},Control
+Anirban Bhattacharyya,2010.0,Mid,M,0000-0002-1646-709X,2023,0,11,6,24,{},Control
+Anirban Bhattacharyya,2010.0,Mid,M,0000-0002-1646-709X,2023,0,8,1,11,{},Control
+Anirban Bhattacharyya,2010.0,Mid,M,0000-0002-1646-709X,2023,0,14,4,24,{},Control
+Anirban Bhattacharyya,2010.0,Mid,M,0000-0002-1646-709X,2023,0,6,0,8,{},Control
+Anirban Bhattacharyya,2010.0,Mid,M,0000-0002-1646-709X,2023,0,14,4,24,{},Control
+Eunjeong Heo,2020.0,Early,F,0000-0001-9632-0188,2023,7,3,3,10,"{'United States': 2, 'South Korea': 13}",Control
+Eunjeong Heo,2020.0,Early,F,0000-0001-9632-0188,2023,1,1,3,5,{'South Korea': 6},Control
+Eunjeong Heo,2020.0,Early,F,0000-0001-9632-0188,2023,1,7,0,7,{'South Korea': 10},Control
+Eunjeong Heo,2020.0,Early,F,0000-0001-9632-0188,2023,7,3,3,10,"{'United States': 2, 'South Korea': 13}",Control
+Eunjeong Heo,2020.0,Early,F,0000-0001-9632-0188,2023,1,1,3,5,{'South Korea': 6},Control
+Eunjeong Heo,2020.0,Early,F,0000-0001-9632-0188,2023,1,7,0,7,{'South Korea': 10},Control
+Kazuyuki Miyamoto,2010.0,Mid,M,0000-0002-9558-2570,2023,0,6,1,7,{'Japan': 8},Control
+Kazuyuki Miyamoto,2010.0,Mid,M,0000-0002-9558-2570,2023,2,9,1,10,{'Japan': 12},Control
+Kazuyuki Miyamoto,2010.0,Mid,M,0000-0002-9558-2570,2023,0,6,1,7,{'Japan': 4},Control
+Kazuyuki Miyamoto,2010.0,Mid,M,0000-0002-9558-2570,2023,0,4,1,5,{'Japan': 5},Control
+Kazuyuki Miyamoto,2010.0,Mid,M,0000-0002-9558-2570,2023,4,11,1,12,{'Japan': 23},Control
+Kazuyuki Miyamoto,2010.0,Mid,M,0000-0002-9558-2570,2017,21,6,1,8,"{'Japan': 8, 'United States': 2}",Control
+Sidharth Mahapatra,2007.0,Mid,M,0000-0002-2483-0610,2023,8,5,3,29,{'United States': 41},Control
+Sidharth Mahapatra,2007.0,Mid,M,0000-0002-2483-0610,2023,0,9,2,12,"{'United States': 11, 'India': 1}",Control
+Sidharth Mahapatra,2007.0,Mid,M,0000-0002-2483-0610,2023,0,4,1,5,{'United States': 6},Control
+Sidharth Mahapatra,2007.0,Mid,M,0000-0002-2483-0610,2023,0,5,2,9,{'United States': 9},Control
+Sidharth Mahapatra,2007.0,Mid,M,0000-0002-2483-0610,2023,0,8,3,20,{'United States': 20},Control
+Sidharth Mahapatra,2007.0,Mid,M,0000-0002-2483-0610,2023,43,8,2,21,{'United States': 27},Control
+Sidharth Mahapatra,2007.0,Mid,M,0000-0002-2483-0610,2017,34,2,1,4,{'United States': 4},Control
+Sidharth Mahapatra,2007.0,Mid,M,0000-0002-2483-0610,2017,24,1,3,5,{'United States': 5},Control
+Sidharth Mahapatra,2007.0,Mid,M,0000-0002-2483-0610,2017,68,6,0,9,{'United States': 15},Control
+Sidharth Mahapatra,2007.0,Mid,M,0000-0002-2483-0610,2017,33,3,2,9,{'United States': 9},Control
+Niranjan Vijayakumar,2019.0,Early,M,0000-0002-6529-7779,2023,0,12,7,20,{'United States': 16},Control
+Niranjan Vijayakumar,2019.0,Early,M,0000-0002-6529-7779,2023,2,8,7,25,{'United States': 53},Control
+Masayasu Horibe,2011.0,Mid,M,0000-0001-9453-1571,2023,0,7,1,8,{'Japan': 8},Control
+Masayasu Horibe,2011.0,Mid,M,0000-0001-9453-1571,2023,3,9,2,11,"{'Japan': 11, 'United States': 1}",Control
+Masayasu Horibe,2011.0,Mid,M,0000-0001-9453-1571,2023,0,7,0,7,{},Control
+Masayasu Horibe,2011.0,Mid,M,0000-0001-9453-1571,2023,0,10,0,10,{},Control
+Masayasu Horibe,2011.0,Mid,M,0000-0001-9453-1571,2023,0,10,0,10,{},Control
+Masayasu Horibe,2011.0,Mid,M,0000-0001-9453-1571,2023,0,10,0,10,{},Control
+Masayasu Horibe,2011.0,Mid,M,0000-0001-9453-1571,2023,1,8,2,10,{'Japan': 10},Control
+Masayasu Horibe,2011.0,Mid,M,0000-0001-9453-1571,2023,7,2,2,8,"{'United States': 7, 'Japan': 1}",Control
+Masayasu Horibe,2011.0,Mid,M,0000-0001-9453-1571,2023,0,2,2,8,{'Japan': 1},Control
+Masayasu Horibe,2011.0,Mid,M,0000-0001-9453-1571,2017,0,15,1,16,{'Japan': 16},Control
+Masayasu Horibe,2011.0,Mid,M,0000-0001-9453-1571,2017,2,7,0,7,{'Japan': 8},Control
+Masayasu Horibe,2011.0,Mid,M,0000-0001-9453-1571,2017,0,12,1,13,{'Japan': 13},Control
+Masayasu Horibe,2011.0,Mid,M,0000-0001-9453-1571,2017,12,864,10,1024,"{'Sweden': 47, 'Singapore': 4, 'United Kingdom': 90, 'Belgium': 54, 'Canada': 22, 'Brazil': 12, 'Switzerland': 42, 'China': 29, 'Russia': 22, 'Japan': 29, 'Germany': 94, 'United States': 87, 'Belarus': 1, 'Italy': 103, 'Denmark': 2, 'Israel': 18, 'Greece': 59, 'France': 5, 'Turkey': 38, 'Tunisia': 4, 'Hungary': 30, 'Egypt': 14, 'Slovenia': 7, 'Portugal': 5, 'Lithuania': 18, 'Austria': 17, 'Thailand': 12, 'India': 6, 'El Salvador': 4, 'Saudi Arabia': 6, 'Spain': 34, 'Australia': 6, 'Serbia': 2, 'Dominican Republic': 1, 'South Korea': 4, 'Netherlands': 36, 'Chile': 11, 'South Africa': 2, 'Qatar': 4, 'United Arab Emirates': 5, 'Morocco': 5, 'Iran': 3, 'Argentina': 9, 'Uruguay': 3, 'Poland': 9, 'Romania': 2, 'Norway': 6, 'Taiwan': 1, 'Malaysia': 3, 'Moldova': 4, 'Ireland': 3}",Control
+Masayasu Horibe,2011.0,Mid,M,0000-0001-9453-1571,2017,41,28,2,30,{'Japan': 31},Control
+Masayasu Horibe,2011.0,Mid,M,0000-0001-9453-1571,2017,31,28,2,30,{'Japan': 31},Control
+Madhuradhar Chegondi,2012.0,Early,U,0000-0002-1375-6988,2023,0,3,3,8,{'United States': 6},Control
+Madhuradhar Chegondi,2012.0,Early,U,0000-0002-1375-6988,2023,0,5,11,18,{'United States': 15},Control
+Madhuradhar Chegondi,2012.0,Early,U,0000-0002-1375-6988,2023,0,3,1,5,{'United States': 5},Control
+Madhuradhar Chegondi,2012.0,Early,U,0000-0002-1375-6988,2023,0,5,11,18,{'United States': 15},Control
+Madhuradhar Chegondi,2012.0,Early,U,0000-0002-1375-6988,2023,0,3,9,13,{'United States': 10},Control
+Madhuradhar Chegondi,2012.0,Early,U,0000-0002-1375-6988,2023,1,2,0,4,{'United States': 4},Control
+Madhuradhar Chegondi,2012.0,Early,U,0000-0002-1375-6988,2023,0,2,0,4,{'United States': 4},Control
+Madhuradhar Chegondi,2012.0,Early,U,0000-0002-1375-6988,2023,7,2,0,3,{'United States': 3},Control
+Madhuradhar Chegondi,2012.0,Early,U,0000-0002-1375-6988,2023,7,1,0,4,{'United States': 6},Control
+Madhuradhar Chegondi,2012.0,Early,U,0000-0002-1375-6988,2017,9,1,1,3,{'United States': 2},Control
+Niveditha Balakumar,2016.0,Early,F,0000-0002-1530-1549,2023,0,0,4,4,{'United States': 3},Control
+Niveditha Balakumar,2016.0,Early,F,0000-0002-1530-1549,2023,3,1,5,6,{'United States': 6},Control
+Goyal Umadat,2020.0,Early,M,0000-0002-1463-4704,2023,0,7,3,10,{'United States': 10},Control
+Goyal Umadat,2020.0,Early,M,0000-0002-1463-4704,2023,0,3,2,5,{'United States': 5},Control
+Goyal Umadat,2020.0,Early,M,0000-0002-1463-4704,2023,0,3,1,4,{'United States': 4},Control
+Goyal Umadat,2020.0,Early,M,0000-0002-1463-4704,2023,0,3,1,4,{},Control
+Goyal Umadat,2020.0,Early,M,0000-0002-1463-4704,2023,2,4,1,7,{'United States': 7},Control
+Goyal Umadat,2020.0,Early,M,0000-0002-1463-4704,2023,0,1,0,1,{},Control
+Goyal Umadat,2020.0,Early,M,0000-0002-1463-4704,2023,0,5,1,6,{'United States': 6},Control
+Goyal Umadat,2020.0,Early,M,0000-0002-1463-4704,2023,0,4,0,6,{'United States': 6},Control
+Goyal Umadat,2020.0,Early,M,0000-0002-1463-4704,2023,0,2,1,10,{'United States': 20},Control
+Camille Jutras,2020.0,Early,F,0000-0003-0255-2426,2023,0,2,7,9,{'Canada': 4},Control
+Camille Jutras,2020.0,Early,F,0000-0003-0255-2426,2023,3,2,6,8,{'Canada': 10},Control
+Matthew Li,2019.0,Early,M,0000-0003-1320-7134,2023,0,6,3,11,{'United States': 11},Control
+Matthew Li,2019.0,Early,M,0000-0003-1320-7134,2023,4,2,4,13,{'United States': 15},Control
+Matthew Li,2019.0,Early,M,0000-0003-1320-7134,2023,4,2,5,13,{'United States': 15},Control
+Matthew Li,2019.0,Early,M,0000-0003-1320-7134,2023,0,4,0,4,{'United States': 4},Control
+Dee Shortridge,1996.0,Senior,F,0000-0002-1215-5216,2023,4,13,19,40,{'United States': 40},Control
+Dee Shortridge,1996.0,Senior,F,0000-0002-1215-5216,2023,0,0,2,4,{'United States': 4},Control
+Dee Shortridge,1996.0,Senior,F,0000-0002-1215-5216,2023,0,0,3,4,{'United States': 4},Control
+Dee Shortridge,1996.0,Senior,F,0000-0002-1215-5216,2023,0,1,2,5,{'United States': 5},Control
+Dee Shortridge,1996.0,Senior,F,0000-0002-1215-5216,2023,0,1,3,6,{'United States': 6},Control
+Dee Shortridge,1996.0,Senior,F,0000-0002-1215-5216,2023,0,0,3,6,{'United States': 6},Control
+Dee Shortridge,1996.0,Senior,F,0000-0002-1215-5216,2023,0,0,2,4,{'United States': 4},Control
+Dee Shortridge,1996.0,Senior,F,0000-0002-1215-5216,2023,4,0,2,4,{'United States': 5},Control
+Dee Shortridge,1996.0,Senior,F,0000-0002-1215-5216,2023,4,1,2,5,{'United States': 5},Control
+Dee Shortridge,1996.0,Senior,F,0000-0002-1215-5216,2023,10,0,2,6,{'United States': 6},Control
+Dee Shortridge,1996.0,Senior,F,0000-0002-1215-5216,2023,6,0,3,5,{'United States': 5},Control
+Dee Shortridge,1996.0,Senior,F,0000-0002-1215-5216,2023,7,0,3,3,{'United States': 3},Control
+Dee Shortridge,1996.0,Senior,F,0000-0002-1215-5216,2017,0,6,0,7,{},Control
+Dee Shortridge,1996.0,Senior,F,0000-0002-1215-5216,2017,78,0,2,6,{'United States': 7},Control
+Dee Shortridge,1996.0,Senior,F,0000-0002-1215-5216,2017,52,0,2,4,{'United States': 5},Control
+Dee Shortridge,1996.0,Senior,F,0000-0002-1215-5216,2017,38,4,1,5,{'United States': 6},Control
+Dee Shortridge,1996.0,Senior,F,0000-0002-1215-5216,2017,0,0,2,5,{'United States': 5},Control
+Dee Shortridge,1996.0,Senior,F,0000-0002-1215-5216,2017,0,0,1,5,{'United States': 5},Control
+Dee Shortridge,1996.0,Senior,F,0000-0002-1215-5216,2017,4,0,2,5,{'United States': 5},Control
+Dee Shortridge,1996.0,Senior,F,0000-0002-1215-5216,2017,0,0,1,4,{'United States': 4},Control
+Raiko Diaz,2019.0,Early,M,0009-0003-6927-7622,2023,2,3,2,11,{'United States': 8},Control
+Raiko Diaz,2019.0,Early,M,0009-0003-6927-7622,2023,0,5,0,6,{},Control
+Raiko Diaz,2019.0,Early,M,0009-0003-6927-7622,2023,0,6,1,9,{},Control
+Raiko Diaz,2019.0,Early,M,0009-0003-6927-7622,2023,0,6,2,9,{},Control
+Raiko Diaz,2019.0,Early,M,0009-0003-6927-7622,2023,0,4,1,6,{},Control
+Raiko Diaz,2019.0,Early,M,0009-0003-6927-7622,2023,0,5,2,8,{},Control
+Raiko Diaz,2019.0,Early,M,0009-0003-6927-7622,2023,2,8,2,12,{},Control
+Raiko Diaz,2019.0,Early,M,0009-0003-6927-7622,2023,0,7,3,11,{},Control
+Raiko Diaz,2019.0,Early,M,0009-0003-6927-7622,2023,0,4,1,6,{},Control
+Karen Lutrick,2016.0,Early,F,0000-0003-3480-849X,2023,0,1,9,21,{'United States': 21},Control
+Karen Lutrick,2016.0,Early,F,0000-0003-3480-849X,2023,23,3,15,37,{'United States': 41},Control
+Karen Lutrick,2016.0,Early,F,0000-0003-3480-849X,2023,2,4,8,29,{'United States': 27},Control
+Karen Lutrick,2016.0,Early,F,0000-0003-3480-849X,2023,1,2,2,7,{'United States': 8},Control
+Karen Lutrick,2016.0,Early,F,0000-0003-3480-849X,2023,9,4,12,29,{'United States': 30},Control
+Karen Lutrick,2016.0,Early,F,0000-0003-3480-849X,2023,0,7,9,25,{'United States': 29},Control
+Karen Lutrick,2016.0,Early,F,0000-0003-3480-849X,2023,0,0,1,2,{'United States': 2},Control
+Karen Lutrick,2016.0,Early,F,0000-0003-3480-849X,2023,1,5,14,26,{'United States': 26},Control
+Karen Lutrick,2016.0,Early,F,0000-0003-3480-849X,2023,0,4,3,7,{'United States': 7},Control
+Karen Lutrick,2016.0,Early,F,0000-0003-3480-849X,2023,27,27,34,204,{'United States': 206},Control
+Karen Lutrick,2016.0,Early,F,0000-0003-3480-849X,2023,0,28,33,204,{'United States': 207},Control
+Karen Lutrick,2016.0,Early,F,0000-0003-3480-849X,2023,551,130,237,825,"{'United States': 179, 'Norfolk Island': 1}",Control
+Karen Lutrick,2016.0,Early,F,0000-0003-3480-849X,2023,4,7,16,50,{'United States': 48},Control
+Karen Lutrick,2016.0,Early,F,0000-0003-3480-849X,2023,5,6,8,33,{'United States': 41},Control
+Karen Lutrick,2016.0,Early,F,0000-0003-3480-849X,2023,28,1,9,34,{'United States': 34},Control
+Karen Lutrick,2016.0,Early,F,0000-0003-3480-849X,2017,9,0,4,5,{'United States': 5},Control
+Nirav Haribhakti,2019.0,Early,M,0000-0001-5601-264X,2023,0,4,2,7,{'United States': 7},Control
+Nirav Haribhakti,2019.0,Early,M,0000-0001-5601-264X,2023,0,5,0,5,{'United States': 5},Control
+Blake Martin,2015.0,Early,M,0000-0001-5683-8310,2023,0,7,1,9,{'United States': 8},Control
+Blake Martin,2015.0,Early,M,0000-0001-5683-8310,2023,16,7,4,25,{'United States': 26},Control
+Blake Martin,2015.0,Early,M,0000-0001-5683-8310,2023,13,4,4,32,"{'United States': 32, 'Italy': 1, 'United Kingdom': 1, 'Greece': 1}",Control
+Blake Martin,2015.0,Early,M,0000-0001-5683-8310,2023,2,5,5,10,{'United States': 16},Control
+Blake Martin,2015.0,Early,M,0000-0001-5683-8310,2023,3,1,1,3,{'United States': 4},Control
+Meghana Nadiger,2013.0,Early,F,0000-0002-1027-6962,2023,8,1,1,4,{'United States': 6},Control
+Niveditha Balakumar,2016.0,Early,F,0000-0002-1530-1549,2023,0,0,4,4,{'United States': 3},Control
+Niveditha Balakumar,2016.0,Early,F,0000-0002-1530-1549,2023,3,1,5,6,{'United States': 6},Control
+Masayuki Otawara,2016.0,Early,M,0000-0001-6320-4551,2023,8,9,0,9,{'Japan': 13},Control
+Masayuki Otawara,2016.0,Early,M,0000-0001-6320-4551,2017,17,6,0,12,"{'United States': 26, 'Japan': 2}",Control
+Jaskaran Rakkar,2020.0,Early,M,0000-0002-4786-1807,2023,0,3,0,3,{'United States': 3},Control
+Jaskaran Rakkar,2020.0,Early,M,0000-0002-4786-1807,2023,0,2,3,5,{'United States': 4},Control
+Jaskaran Rakkar,2020.0,Early,M,0000-0002-4786-1807,2023,0,2,3,5,{'United States': 5},Control
+Jaskaran Rakkar,2020.0,Early,M,0000-0002-4786-1807,2023,0,5,2,11,{},Control
+Nazli Deveci,2017.0,Early,F,0000-0002-3390-7798,2023,0,7,5,16,{'United States': 26},Control
+Nazli Deveci,2017.0,Early,F,0000-0002-3390-7798,2023,0,2,6,11,{},Control
+Nazli Deveci,2017.0,Early,F,0000-0002-3390-7798,2017,0,0,3,4,{},Control
+Nazli Deveci,2017.0,Early,F,0000-0002-3390-7798,2017,7,2,3,7,{'Turkey': 7},Control
+William Li,2017.0,Early,M,0000-0003-4606-9639,2017,2,4,0,4,{'United States': 4},Control
+William Li,2017.0,Early,M,0000-0003-4606-9639,2017,13,2,0,2,{'United States': 2},Control
+William Li,2017.0,Early,M,0000-0003-4606-9639,2017,7,3,0,3,{'United States': 3},Control
+William Li,2017.0,Early,M,0000-0003-4606-9639,2017,0,3,0,3,{'United States': 3},Control
+James Priano,2013.0,Early,M,0000-0003-2096-140X,2017,0,2,0,2,{'United States': 2},Control
+James Priano,2013.0,Early,M,0000-0003-2096-140X,2017,10,4,1,5,{'United States': 5},Control
+Madihah Hepburn,2018.0,Early,F,0000-0002-7070-4033,2023,0,4,6,12,"{'United States': 5, 'Australia': 1, 'Canada': 1, 'Cayman Islands': 1, 'Brazil': 1}",Control
+Madihah Hepburn,2018.0,Early,F,0000-0002-7070-4033,2023,0,5,8,23,"{'United States': 15, 'Canada': 3, 'Brazil': 1, 'Dominican Republic': 2, 'Cayman Islands': 1}",Control
+Madihah Hepburn,2018.0,Early,F,0000-0002-7070-4033,2023,7,7,5,14,"{'United States': 12, 'Bermuda': 2, 'India': 3, 'Jamaica': 2, 'Dominican Republic': 4, 'Canada': 2}",Control
+Hilamber Subba,2020.0,Early,U,0000-0001-8102-7050,2023,0,5,0,5,{'United States': 5},Control
+Ofer Sadan,2005.0,Mid,M,0000-0002-0050-3025,2023,5,3,4,11,{'United States': 14},Control
+Ofer Sadan,2005.0,Mid,M,0000-0002-0050-3025,2023,0,4,1,5,{'United States': 5},Control
+Ofer Sadan,2005.0,Mid,M,0000-0002-0050-3025,2023,0,3,2,10,{'United States': 10},Control
+Ofer Sadan,2005.0,Mid,M,0000-0002-0050-3025,2023,0,55,37,138,{'United States': 12},Control
+Ofer Sadan,2005.0,Mid,M,0000-0002-0050-3025,2023,14,54,43,145,{'United States': 24},Control
+Ofer Sadan,2005.0,Mid,M,0000-0002-0050-3025,2023,0,11,0,11,{},Control
+Ofer Sadan,2005.0,Mid,M,0000-0002-0050-3025,2023,0,11,0,11,{},Control
+Ofer Sadan,2005.0,Mid,M,0000-0002-0050-3025,2023,0,2,2,5,{'United States': 5},Control
+Ofer Sadan,2005.0,Mid,M,0000-0002-0050-3025,2023,3,59,39,140,{'United States': 10},Control
+Ofer Sadan,2005.0,Mid,M,0000-0002-0050-3025,2023,2,57,39,136,{'United States': 15},Control
+Ofer Sadan,2005.0,Mid,M,0000-0002-0050-3025,2023,0,5,5,10,{'United States': 10},Control
+Ofer Sadan,2005.0,Mid,M,0000-0002-0050-3025,2023,1,3,2,5,{'United States': 5},Control
+Ofer Sadan,2005.0,Mid,M,0000-0002-0050-3025,2023,3,56,38,136,"{'Canada': 2, 'United States': 8}",Control
+Ofer Sadan,2005.0,Mid,M,0000-0002-0050-3025,2023,1,1,0,2,{'United States': 2},Control
+Ofer Sadan,2005.0,Mid,M,0000-0002-0050-3025,2023,12,4,1,11,{'United States': 14},Control
+Ofer Sadan,2005.0,Mid,M,0000-0002-0050-3025,2023,0,4,1,7,{},Control
+Ofer Sadan,2005.0,Mid,M,0000-0002-0050-3025,2023,11,62,41,141,"{'United States': 15, 'China': 3}",Control
+Ofer Sadan,2005.0,Mid,M,0000-0002-0050-3025,2023,4,1,3,14,{'United States': 21},Control
+Ofer Sadan,2005.0,Mid,M,0000-0002-0050-3025,2017,0,2,0,5,{'United States': 10},Control
+Ofer Sadan,2005.0,Mid,M,0000-0002-0050-3025,2017,84,2,0,5,{'United States': 5},Control
+Han-Gil Jeong,2013.0,Early,M,0000-0002-1418-1768,2023,2,6,0,11,"{'South Korea': 15, 'United States': 1}",Control
+Han-Gil Jeong,2013.0,Early,M,0000-0002-1418-1768,2023,0,3,2,7,{},Control
+Han-Gil Jeong,2013.0,Early,M,0000-0002-1418-1768,2023,0,6,0,11,"{'South Korea': 15, 'United States': 1}",Control
+Han-Gil Jeong,2013.0,Early,M,0000-0002-1418-1768,2023,2,3,0,7,{'South Korea': 8},Control
+Han-Gil Jeong,2013.0,Early,M,0000-0002-1418-1768,2023,2,5,0,10,{'South Korea': 12},Control
+Han-Gil Jeong,2013.0,Early,M,0000-0002-1418-1768,2023,0,4,0,6,{'South Korea': 6},Control
+Han-Gil Jeong,2013.0,Early,M,0000-0002-1418-1768,2023,1,4,1,10,"{'South Korea': 15, 'United States': 2}",Control
+Han-Gil Jeong,2013.0,Early,M,0000-0002-1418-1768,2017,0,3,0,5,{'South Korea': 5},Control
+Han-Gil Jeong,2013.0,Early,M,0000-0002-1418-1768,2017,0,2,1,5,{'South Korea': 5},Control
+Han-Gil Jeong,2013.0,Early,M,0000-0002-1418-1768,2017,10,4,2,10,"{'South Korea': 9, 'United States': 1}",Control
+Han-Gil Jeong,2013.0,Early,M,0000-0002-1418-1768,2017,7,2,0,5,{'South Korea': 5},Control
+Han-Gil Jeong,2013.0,Early,M,0000-0002-1418-1768,2017,53,4,3,9,{'South Korea': 9},Control
+Han-Gil Jeong,2013.0,Early,M,0000-0002-1418-1768,2017,0,2,0,2,{'South Korea': 2},Control
+Han-Gil Jeong,2013.0,Early,M,0000-0002-1418-1768,2017,1,9,3,15,{'South Korea': 30},Control
+Han-Gil Jeong,2013.0,Early,M,0000-0002-1418-1768,2017,1,9,3,15,{'South Korea': 30},Control
+Han-Gil Jeong,2013.0,Early,M,0000-0002-1418-1768,2017,50,9,3,15,{'South Korea': 30},Control
+Han-Gil Jeong,2013.0,Early,M,0000-0002-1418-1768,2017,307,9,3,15,{'South Korea': 30},Control
+Han-Gil Jeong,2013.0,Early,M,0000-0002-1418-1768,2017,59,4,1,5,{'South Korea': 5},Control
+Han-Gil Jeong,2013.0,Early,M,0000-0002-1418-1768,2017,48,6,2,11,{'South Korea': 22},Control
+Han-Gil Jeong,2013.0,Early,M,0000-0002-1418-1768,2017,1,2,0,5,{'South Korea': 5},Control
+Ofer Sadan,2005.0,Mid,M,0000-0002-0050-3025,2023,5,3,4,11,{'United States': 14},Control
+Ofer Sadan,2005.0,Mid,M,0000-0002-0050-3025,2023,0,4,1,5,{'United States': 5},Control
+Ofer Sadan,2005.0,Mid,M,0000-0002-0050-3025,2023,0,3,2,10,{'United States': 10},Control
+Ofer Sadan,2005.0,Mid,M,0000-0002-0050-3025,2023,0,55,37,138,{'United States': 12},Control
+Ofer Sadan,2005.0,Mid,M,0000-0002-0050-3025,2023,14,54,43,145,{'United States': 24},Control
+Ofer Sadan,2005.0,Mid,M,0000-0002-0050-3025,2023,0,11,0,11,{},Control
+Ofer Sadan,2005.0,Mid,M,0000-0002-0050-3025,2023,0,11,0,11,{},Control
+Ofer Sadan,2005.0,Mid,M,0000-0002-0050-3025,2023,0,2,2,5,{'United States': 5},Control
+Ofer Sadan,2005.0,Mid,M,0000-0002-0050-3025,2023,3,59,39,140,{'United States': 10},Control
+Ofer Sadan,2005.0,Mid,M,0000-0002-0050-3025,2023,2,57,39,136,{'United States': 15},Control
+Ofer Sadan,2005.0,Mid,M,0000-0002-0050-3025,2023,0,5,5,10,{'United States': 10},Control
+Ofer Sadan,2005.0,Mid,M,0000-0002-0050-3025,2023,1,3,2,5,{'United States': 5},Control
+Ofer Sadan,2005.0,Mid,M,0000-0002-0050-3025,2023,3,56,38,136,"{'Canada': 2, 'United States': 8}",Control
+Ofer Sadan,2005.0,Mid,M,0000-0002-0050-3025,2023,1,1,0,2,{'United States': 2},Control
+Ofer Sadan,2005.0,Mid,M,0000-0002-0050-3025,2023,12,4,1,11,{'United States': 14},Control
+Ofer Sadan,2005.0,Mid,M,0000-0002-0050-3025,2023,0,4,1,7,{},Control
+Ofer Sadan,2005.0,Mid,M,0000-0002-0050-3025,2023,11,62,41,141,"{'United States': 15, 'China': 3}",Control
+Ofer Sadan,2005.0,Mid,M,0000-0002-0050-3025,2023,4,1,3,14,{'United States': 21},Control
+Ofer Sadan,2005.0,Mid,M,0000-0002-0050-3025,2017,0,2,0,5,{'United States': 10},Control
+Ofer Sadan,2005.0,Mid,M,0000-0002-0050-3025,2017,84,2,0,5,{'United States': 5},Control
+Wei-Long Zheng,2014.0,Early,U,0000-0002-9474-6369,2023,2,0,2,4,{'China': 4},Control
+Wei-Long Zheng,2014.0,Early,U,0000-0002-9474-6369,2023,52,8,1,18,"{'United States': 18, 'Spain': 1, 'China': 1, 'Netherlands': 4, 'Belgium': 1}",Control
+Wei-Long Zheng,2014.0,Early,U,0000-0002-9474-6369,2023,1,1,1,4,{'China': 7},Control
+Wei-Long Zheng,2014.0,Early,U,0000-0002-9474-6369,2023,2,1,0,4,{'China': 5},Control
+Wei-Long Zheng,2014.0,Early,U,0000-0002-9474-6369,2023,3,2,2,6,{'China': 3},Control
+Wei-Long Zheng,2014.0,Early,U,0000-0002-9474-6369,2023,2,2,3,7,{'China': 4},Control
+Wei-Long Zheng,2014.0,Early,U,0000-0002-9474-6369,2023,0,1,1,4,{'China': 10},Control
+Wei-Long Zheng,2014.0,Early,U,0000-0002-9474-6369,2023,1,1,3,7,{'China': 10},Control
+Wei-Long Zheng,2014.0,Early,U,0000-0002-9474-6369,2023,0,0,0,4,{'China': 7},Control
+Wei-Long Zheng,2014.0,Early,U,0000-0002-9474-6369,2023,6,2,2,7,{'China': 11},Control
+Wei-Long Zheng,2014.0,Early,U,0000-0002-9474-6369,2023,17,0,0,4,{'China': 4},Control
+Wei-Long Zheng,2014.0,Early,U,0000-0002-9474-6369,2023,41,6,2,16,"{'United States': 15, 'China': 1, 'Belgium': 1, 'Netherlands': 4}",Control
+Wei-Long Zheng,2014.0,Early,U,0000-0002-9474-6369,2023,9,6,2,16,"{'United States': 15, 'China': 1, 'Belgium': 1, 'Netherlands': 4}",Control
+Wei-Long Zheng,2014.0,Early,U,0000-0002-9474-6369,2023,2,1,0,4,{'China': 6},Control
+Wei-Long Zheng,2014.0,Early,U,0000-0002-9474-6369,2023,3,5,3,16,"{'United States': 112, 'China': 16, 'Belgium': 16, 'Netherlands': 48}",Control
+Wei-Long Zheng,2014.0,Early,U,0000-0002-9474-6369,2023,1,2,1,5,{'China': 4},Control
+Wei-Long Zheng,2014.0,Early,U,0000-0002-9474-6369,2023,2,3,0,5,{'China': 7},Control
+Wei-Long Zheng,2014.0,Early,U,0000-0002-9474-6369,2023,17,1,0,4,"{'China': 3, 'United States': 1}",Control
+Wei-Long Zheng,2014.0,Early,U,0000-0002-9474-6369,2023,3,0,0,3,{'China': 9},Control
+Wei-Long Zheng,2014.0,Early,U,0000-0002-9474-6369,2017,51,1,0,4,{'China': 4},Control
+Edilberto Amorim,2010.0,Mid,M,0000-0001-6972-5622,2023,52,8,1,18,"{'United States': 18, 'Spain': 1, 'China': 1, 'Netherlands': 4, 'Belgium': 1}",Control
+Edilberto Amorim,2010.0,Mid,M,0000-0001-6972-5622,2023,0,7,4,16,{'United States': 16},Control
+Edilberto Amorim,2010.0,Mid,M,0000-0001-6972-5622,2023,16,6,2,24,"{'United States': 20, 'Sweden': 1, 'United Kingdom': 2, 'Switzerland': 1, 'Belgium': 1}",Control
+Edilberto Amorim,2010.0,Mid,M,0000-0001-6972-5622,2023,36,6,2,25,{},Control
+Edilberto Amorim,2010.0,Mid,M,0000-0001-6972-5622,2023,4,3,3,6,{'United States': 9},Control
+Edilberto Amorim,2010.0,Mid,M,0000-0001-6972-5622,2023,0,8,2,21,{},Control
+Edilberto Amorim,2010.0,Mid,M,0000-0001-6972-5622,2023,41,6,2,16,"{'United States': 15, 'China': 1, 'Belgium': 1, 'Netherlands': 4}",Control
+Edilberto Amorim,2010.0,Mid,M,0000-0001-6972-5622,2023,6,9,14,28,{},Control
+Edilberto Amorim,2010.0,Mid,M,0000-0001-6972-5622,2023,4,4,3,19,{'United States': 27},Control
+Edilberto Amorim,2010.0,Mid,M,0000-0001-6972-5622,2023,9,6,2,16,"{'United States': 15, 'China': 1, 'Belgium': 1, 'Netherlands': 4}",Control
+Edilberto Amorim,2010.0,Mid,M,0000-0001-6972-5622,2023,11,6,1,16,{'United States': 38},Control
+Edilberto Amorim,2010.0,Mid,M,0000-0001-6972-5622,2023,1,3,0,5,{'United States': 7},Control
+Edilberto Amorim,2010.0,Mid,M,0000-0001-6972-5622,2023,3,5,3,16,"{'United States': 112, 'China': 16, 'Belgium': 16, 'Netherlands': 48}",Control
+Edilberto Amorim,2010.0,Mid,M,0000-0001-6972-5622,2023,4,9,0,9,{'United States': 4},Control
+Edilberto Amorim,2010.0,Mid,M,0000-0001-6972-5622,2017,1,3,1,7,{'United States': 14},Control
+Edilberto Amorim,2010.0,Mid,M,0000-0001-6972-5622,2017,34,3,0,9,"{'United States': 9, 'Belgium': 2}",Control
+Ibrahim Migdady,2018.0,Early,M,0000-0002-1291-6257,2023,6,2,0,4,{'United States': 15},Control
+Ibrahim Migdady,2018.0,Early,M,0000-0002-1291-6257,2023,0,3,0,4,{'United States': 10},Control
+Neeraj Badjatia,2002.0,Mid,M,0000-0003-1509-9034,2023,0,3,2,5,{'United States': 5},Control
+Neeraj Badjatia,2002.0,Mid,M,0000-0003-1509-9034,2023,0,8,4,14,"{'United Kingdom': 3, 'United States': 11, 'Belgium': 1, 'Italy': 2}",Control
+Neeraj Badjatia,2002.0,Mid,M,0000-0003-1509-9034,2023,0,4,1,10,{'United States': 9},Control
+Neeraj Badjatia,2002.0,Mid,M,0000-0003-1509-9034,2023,3,5,1,10,{'United States': 15},Control
+Neeraj Badjatia,2002.0,Mid,M,0000-0003-1509-9034,2023,1,5,2,13,{'United States': 18},Control
+Neeraj Badjatia,2002.0,Mid,M,0000-0003-1509-9034,2023,12,8,4,14,"{'United Kingdom': 3, 'United States': 11, 'Belgium': 1, 'Italy': 2}",Control
+Neeraj Badjatia,2002.0,Mid,M,0000-0003-1509-9034,2023,8,1,5,13,{'United States': 13},Control
+Neeraj Badjatia,2002.0,Mid,M,0000-0003-1509-9034,2023,2,4,1,8,{'United States': 10},Control
+Neeraj Badjatia,2002.0,Mid,M,0000-0003-1509-9034,2023,4,4,2,14,{'United States': 13},Control
+Neeraj Badjatia,2002.0,Mid,M,0000-0003-1509-9034,2023,3,2,1,12,{'United States': 23},Control
+Neeraj Badjatia,2002.0,Mid,M,0000-0003-1509-9034,2023,1,5,6,12,{'United States': 11},Control
+Neeraj Badjatia,2002.0,Mid,M,0000-0003-1509-9034,2023,0,4,4,9,{'United States': 9},Control
+Neeraj Badjatia,2002.0,Mid,M,0000-0003-1509-9034,2023,39,8,3,23,{'United States': 24},Control
+Neeraj Badjatia,2002.0,Mid,M,0000-0003-1509-9034,2023,0,4,1,8,{'United States': 7},Control
+Neeraj Badjatia,2002.0,Mid,M,0000-0003-1509-9034,2023,0,7,3,10,{},Control
+Neeraj Badjatia,2002.0,Mid,M,0000-0003-1509-9034,2023,7,7,4,12,{'United States': 20},Control
+Neeraj Badjatia,2002.0,Mid,M,0000-0003-1509-9034,2017,56,4,2,6,{'United States': 6},Control
+Neeraj Badjatia,2002.0,Mid,M,0000-0003-1509-9034,2017,22,5,4,11,{'United States': 12},Control
+Neeraj Badjatia,2002.0,Mid,M,0000-0003-1509-9034,2017,8,3,1,7,"{'United States': 3, 'Canada': 1}",Control
+Neeraj Badjatia,2002.0,Mid,M,0000-0003-1509-9034,2017,13,1,1,6,{'United States': 9},Control
+Eugene Oreshnikov,2009.0,Mid,M,0000-0001-8503-0783,2023,0,2,3,5,{},Control
+Eugene Oreshnikov,2009.0,Mid,M,0000-0001-8503-0783,2023,0,2,3,5,{},Control
+Eugene Oreshnikov,2009.0,Mid,M,0000-0001-8503-0783,2023,0,2,3,5,{},Control
+Jiyeon Kang,2020.0,Early,F,0000-0003-3987-4656,2023,6,0,2,9,{'South Korea': 15},Control
+Alyson Takaoka,2015.0,Early,F,0000-0003-1442-080X,2023,11,19,13,36,"{'Canada': 47, 'Saudi Arabia': 2}",Control
+Melany Gaetani,2012.0,Early,F,0000-0002-3168-9029,2023,0,2,4,6,{'Canada': 9},Control
+Melany Gaetani,2012.0,Early,F,0000-0002-3168-9029,2023,1,2,2,4,"{'Canada': 6, 'Australia': 7}",Control
+Melany Gaetani,2012.0,Early,F,0000-0002-3168-9029,2017,17,1,3,4,{'Canada': 15},Control
+Divij Pasrija,2015.0,Early,M,0000-0001-5826-0460,2023,0,2,2,4,{'United States': 3},Control
+Julianne Yeary,2018.0,Early,F,0000-0001-7773-2486,2023,0,1,2,3,{'United States': 2},Control
+Julianne Yeary,2018.0,Early,F,0000-0001-7773-2486,2023,0,1,2,3,{'United States': 2},Control
+Julianne Yeary,2018.0,Early,F,0000-0001-7773-2486,2023,0,1,2,3,{'United States': 3},Control
+Julianne Yeary,2018.0,Early,F,0000-0001-7773-2486,2023,3,2,2,13,{'United States': 13},Control
+Julianne Yeary,2018.0,Early,F,0000-0001-7773-2486,2023,3,2,3,7,{'United States': 7},Control
+Julianne Yeary,2018.0,Early,F,0000-0001-7773-2486,2023,5,1,5,8,{'United States': 8},Control
+Calvin Diep,2019.0,Early,M,0000-0002-6238-2011,2023,0,3,3,7,{'United States': 6},Control
+Calvin Diep,2019.0,Early,M,0000-0002-6238-2011,2023,6,6,1,7,{'United States': 10},Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,0,7,3,11,"{'Japan': 11, 'United States': 1}",Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,0,2,0,2,{'Japan': 2},Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,0,28,6,34,"{'Japan': 10, 'Australia': 2}",Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,0,2,0,5,"{'United States': 3, 'Japan': 2}",Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,3,1,1,3,"{'United States': 1, 'Japan': 2}",Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,26,63,10,73,"{'Japan': 73, 'United States': 1, 'Germany': 1, 'Australia': 2}",Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,1,104,19,124,"{'Japan': 114, 'United States': 2}",Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,1,29,0,32,"{'Japan': 31, 'United Kingdom': 4}",Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,1,1,0,2,{'United States': 2},Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,1,6,3,9,"{'Japan': 9, 'United States': 1}",Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,0,4,0,4,{'Japan': 4},Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,1,3,0,3,{'Japan': 3},Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,0,2,0,2,{'Japan': 2},Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,2,3,0,3,{'Japan': 4},Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,16,14,3,18,"{'Japan': 17, 'United States': 1}",Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2017,53,2,0,2,{'Japan': 2},Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2017,0,3,0,3,{'Japan': 3},Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2017,14,1,0,2,"{'United States': 2, 'Japan': 1}",Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2017,5,3,0,3,{'Japan': 3},Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2017,9,10,0,10,"{'Japan': 10, 'United States': 1}",Control
+Sarah Piel,2013.0,Early,F,0000-0002-1779-3532,2023,3,1,4,11,"{'United States': 10, 'Sweden': 3}",Control
+Sarah Piel,2013.0,Early,F,0000-0002-1779-3532,2023,2,7,4,18,{'United States': 27},Control
+Sarah Piel,2013.0,Early,F,0000-0002-1779-3532,2023,3,0,5,11,"{'United States': 11, 'Sweden': 3}",Control
+Lauren Schmidt,2021.0,Early,F,0009-0000-0585-9429,2023,4,2,6,10,{'United States': 10},Control
+Chris Carter,2019.0,Early,M,0000-0003-4723-1853,2023,1,2,2,6,{'United States': 7},Control
+Breyanna Reachi,2020.0,Early,F,0000-0001-5707-2679,2023,8,3,2,6,{'United States': 6},Control
+Louisdon Pierre,1998.0,Senior,U,0000-0002-6670-919X,2023,0,1,3,5,{'United States': 2},Control
+Louisdon Pierre,1998.0,Senior,U,0000-0002-6670-919X,2023,0,2,2,5,{'United States': 5},Control
+Louisdon Pierre,1998.0,Senior,U,0000-0002-6670-919X,2023,6,3,1,5,{'United States': 5},Control
+Louisdon Pierre,1998.0,Senior,U,0000-0002-6670-919X,2017,0,1,0,4,{},Control
+Louisdon Pierre,1998.0,Senior,U,0000-0002-6670-919X,2017,9,1,2,4,{'United States': 4},Control
+Louisdon Pierre,1998.0,Senior,U,0000-0002-6670-919X,2017,10,9,1,12,{'United States': 14},Control
+Ahmed Veten,2020.0,Early,M,0000-0002-1755-6967,2023,1,5,1,7,{'United States': 8},Control
+Vivian Hernandez-Torres,2015.0,Early,F,0000-0003-3041-1639,2023,2,0,1,7,{'United States': 7},Control
+Vivian Hernandez-Torres,2015.0,Early,F,0000-0003-3041-1639,2023,2,1,2,5,{'United States': 6},Control
+Vivian Hernandez-Torres,2015.0,Early,F,0000-0003-3041-1639,2023,2,0,1,7,{'United States': 7},Control
+Vivian Hernandez-Torres,2015.0,Early,F,0000-0003-3041-1639,2023,2,1,2,5,{'United States': 6},Control
+Viren Kaul,2008.0,Mid,M,0000-0003-3047-4840,2023,0,17,0,23,{'United States': 11},Control
+Viren Kaul,2008.0,Mid,M,0000-0003-3047-4840,2023,0,10,0,23,"{'United States': 21, 'Canada': 1, 'United Kingdom': 1}",Control
+Viren Kaul,2008.0,Mid,M,0000-0003-3047-4840,2023,0,4,4,10,{},Control
+Viren Kaul,2008.0,Mid,M,0000-0003-3047-4840,2023,0,1,2,5,{'United States': 5},Control
+Viren Kaul,2008.0,Mid,M,0000-0003-3047-4840,2023,0,1,1,2,{'United States': 2},Control
+Viren Kaul,2008.0,Mid,M,0000-0003-3047-4840,2023,12,8,0,29,"{'United States': 28, 'Canada': 1, 'United Kingdom': 1}",Control
+Viren Kaul,2008.0,Mid,M,0000-0003-3047-4840,2023,19,7,0,24,"{'United States': 22, 'Canada': 1, 'United Kingdom': 1}",Control
+Viren Kaul,2008.0,Mid,M,0000-0003-3047-4840,2023,0,32,54,132,"{'United States': 30, 'Slovenia': 1}",Control
+Viren Kaul,2008.0,Mid,M,0000-0003-3047-4840,2023,3,4,1,5,{'United States': 5},Control
+Viren Kaul,2008.0,Mid,M,0000-0003-3047-4840,2023,1,2,2,5,{'United States': 5},Control
+Viren Kaul,2008.0,Mid,M,0000-0003-3047-4840,2017,1,2,0,3,{'United States': 3},Control
+Viren Kaul,2008.0,Mid,M,0000-0003-3047-4840,2017,2,2,3,5,{'United States': 5},Control
+Viren Kaul,2008.0,Mid,M,0000-0003-3047-4840,2017,1,1,1,3,{'United States': 3},Control
+Viren Kaul,2008.0,Mid,M,0000-0003-3047-4840,2017,0,5,1,6,{'United States': 6},Control
+Viren Kaul,2008.0,Mid,M,0000-0003-3047-4840,2017,3,2,2,5,{'United States': 5},Control
+Viren Kaul,2008.0,Mid,M,0000-0003-3047-4840,2017,0,2,2,4,{'United States': 4},Control
+Viren Kaul,2008.0,Mid,M,0000-0003-3047-4840,2017,0,2,2,5,{'United States': 5},Control
+Viren Kaul,2008.0,Mid,M,0000-0003-3047-4840,2017,0,3,0,4,{'United States': 4},Control
+Michael Green,2016.0,Early,M,0000-0003-3919-970X,2023,0,6,0,6,{'Israel': 6},Control
+Michael Green,2016.0,Early,M,0000-0003-3919-970X,2017,3,4,0,5,{'Israel': 5},Control
+Michael Green,2016.0,Early,M,0000-0003-3919-970X,2017,6,4,0,5,{'Israel': 5},Control
+Sonali Basu,2012.0,Early,F,0000-0002-5502-1488,2023,9,1,2,10,{'United States': 18},Control
+Sonali Basu,2012.0,Early,F,0000-0002-5502-1488,2017,1,0,2,2,{'United States': 2},Control
+Sonali Basu,2012.0,Early,F,0000-0002-5502-1488,2017,12,0,1,2,{'United States': 4},Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,0,7,3,11,"{'Japan': 11, 'United States': 1}",Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,0,2,0,2,{'Japan': 2},Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,0,28,6,34,"{'Japan': 10, 'Australia': 2}",Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,0,2,0,5,"{'United States': 3, 'Japan': 2}",Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,3,1,1,3,"{'United States': 1, 'Japan': 2}",Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,26,63,10,73,"{'Japan': 73, 'United States': 1, 'Germany': 1, 'Australia': 2}",Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,1,104,19,124,"{'Japan': 114, 'United States': 2}",Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,1,29,0,32,"{'Japan': 31, 'United Kingdom': 4}",Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,1,1,0,2,{'United States': 2},Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,1,6,3,9,"{'Japan': 9, 'United States': 1}",Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,0,4,0,4,{'Japan': 4},Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,1,3,0,3,{'Japan': 3},Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,0,2,0,2,{'Japan': 2},Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,2,3,0,3,{'Japan': 4},Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,16,14,3,18,"{'Japan': 17, 'United States': 1}",Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2017,53,2,0,2,{'Japan': 2},Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2017,0,3,0,3,{'Japan': 3},Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2017,14,1,0,2,"{'United States': 2, 'Japan': 1}",Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2017,5,3,0,3,{'Japan': 3},Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2017,9,10,0,10,"{'Japan': 10, 'United States': 1}",Control
+Bibek Karki,2023.0,Early,M,0000-0002-4078-2276,2023,0,6,3,10,{'United States': 10},Control
+Bibek Karki,2023.0,Early,M,0000-0002-4078-2276,2023,0,9,2,11,{'United States': 11},Control
+Bibek Karki,2023.0,Early,M,0000-0002-4078-2276,2023,0,11,3,14,"{'United States': 13, 'Pakistan': 1}",Control
+Bibek Karki,2023.0,Early,M,0000-0002-4078-2276,2023,0,5,1,6,"{'United States': 5, 'Nepal': 1}",Control
+Bibek Karki,2023.0,Early,M,0000-0002-4078-2276,2023,0,5,2,7,"{'United States': 6, 'Nepal': 1}",Control
+Bibek Karki,2023.0,Early,M,0000-0002-4078-2276,2023,0,11,2,13,{'United States': 13},Control
+Bibek Karki,2023.0,Early,M,0000-0002-4078-2276,2023,0,11,2,13,{'United States': 13},Control
+Bibek Karki,2023.0,Early,M,0000-0002-4078-2276,2023,1,3,1,4,{'United States': 5},Control
+Bibek Karki,2023.0,Early,M,0000-0002-4078-2276,2023,0,7,0,7,{},Control
+Bibek Karki,2023.0,Early,M,0000-0002-4078-2276,2023,0,7,0,7,{},Control
+Munenori Kusunoki,2016.0,Early,M,0000-0002-7124-6281,2023,44,1438,513,2463,{},Control
+Munenori Kusunoki,2016.0,Early,M,0000-0002-7124-6281,2017,0,4,2,6,{},Control
+Munenori Kusunoki,2016.0,Early,M,0000-0002-7124-6281,2017,9,6,3,9,{'Japan': 9},Control
+Munenori Kusunoki,2016.0,Early,M,0000-0002-7124-6281,2017,0,11,1,12,{'Japan': 16},Control
+Munenori Kusunoki,2016.0,Early,M,0000-0002-7124-6281,2017,50,10,1,11,{'Japan': 15},Control
+Munenori Kusunoki,2016.0,Early,M,0000-0002-7124-6281,2017,1,7,0,7,{},Control
+Azaan Ramani,2016.0,Early,M,0000-0002-3663-3016,2023,0,13,8,24,{},Control
+Azaan Ramani,2016.0,Early,M,0000-0002-3663-3016,2023,8,1,1,3,{'United States': 3},Control
+Svetlana Herasevich,2018.0,Early,F,0000-0003-0525-9364,2023,1,3,4,7,{'United States': 7},Control
+Svetlana Herasevich,2018.0,Early,F,0000-0003-0525-9364,2023,1,3,4,7,{'United States': 7},Control
+Svetlana Herasevich,2018.0,Early,F,0000-0003-0525-9364,2023,9,6,4,14,"{'United States': 14, 'Belarus': 1, 'Taiwan': 2}",Control
+Svetlana Herasevich,2018.0,Early,F,0000-0003-0525-9364,2023,0,3,2,5,{},Control
+Svetlana Herasevich,2018.0,Early,F,0000-0003-0525-9364,2023,3,1,2,6,"{'United States': 7, 'Belarus': 1}",Control
+Svetlana Herasevich,2018.0,Early,F,0000-0003-0525-9364,2023,6,2,3,9,"{'United States': 11, 'Belarus': 1}",Control
+Svetlana Herasevich,2018.0,Early,F,0000-0003-0525-9364,2023,0,4,1,5,{'United States': 5},Control
+Svetlana Herasevich,2018.0,Early,F,0000-0003-0525-9364,2023,0,3,0,3,{'United States': 3},Control
+Svetlana Herasevich,2018.0,Early,F,0000-0003-0525-9364,2023,9,1,4,8,"{'United States': 8, 'China': 1}",Control
+Svetlana Herasevich,2018.0,Early,F,0000-0003-0525-9364,2023,1,3,4,10,{'United States': 10},Control
+Vladyslav Dieiev,2020.0,Early,M,0000-0003-2673-7353,2023,0,20,18,50,"{'United States': 37, 'Canada': 14, 'Italy': 2}",Control
+Vladyslav Dieiev,2020.0,Early,M,0000-0003-2673-7353,2023,0,20,18,49,"{'United States': 35, 'Canada': 14, 'Italy': 2}",Control
+Vladyslav Dieiev,2020.0,Early,M,0000-0003-2673-7353,2023,0,4,7,12,"{'United States': 7, 'Ukraine': 2}",Control
+Vladyslav Dieiev,2020.0,Early,M,0000-0003-2673-7353,2023,0,2,0,2,{'United States': 2},Control
+Vladyslav Dieiev,2020.0,Early,M,0000-0003-2673-7353,2023,3,50,61,155,{'United States': 32},Control
+Buria Naeem,2016.0,Early,M,0000-0002-7103-1299,2023,1,4,2,17,{'United States': 18},Control
+Buria Naeem,2016.0,Early,M,0000-0002-7103-1299,2023,7,4,0,5,{'United States': 8},Control
+Buria Naeem,2016.0,Early,M,0000-0002-7103-1299,2017,0,5,1,6,{'United States': 6},Control
+Buria Naeem,2016.0,Early,M,0000-0002-7103-1299,2017,0,3,1,4,{'Pakistan': 4},Control
+Buria Naeem,2016.0,Early,M,0000-0002-7103-1299,2017,17,4,5,11,{'Pakistan': 11},Control
+Nadir Yehya,2004.0,Mid,M,0000-0002-2996-217X,2023,0,1,3,4,{'United States': 4},Control
+Nadir Yehya,2004.0,Mid,M,0000-0002-2996-217X,2023,0,3,1,5,"{'United States': 4, 'Tunisia': 1}",Control
+Nadir Yehya,2004.0,Mid,M,0000-0002-2996-217X,2023,0,2,2,4,{'United States': 4},Control
+Nadir Yehya,2004.0,Mid,M,0000-0002-2996-217X,2023,0,2,3,5,{'United States': 5},Control
+Nadir Yehya,2004.0,Mid,M,0000-0002-2996-217X,2023,0,1,1,2,{'United States': 2},Control
+Nadir Yehya,2004.0,Mid,M,0000-0002-2996-217X,2023,0,2,2,4,{'United States': 4},Control
+Nadir Yehya,2004.0,Mid,M,0000-0002-2996-217X,2023,16,4,0,12,{'United States': 14},Control
+Nadir Yehya,2004.0,Mid,M,0000-0002-2996-217X,2023,7,2,0,7,{'United States': 14},Control
+Nadir Yehya,2004.0,Mid,M,0000-0002-2996-217X,2023,1,1,0,2,{'United States': 3},Control
+Nadir Yehya,2004.0,Mid,M,0000-0002-2996-217X,2023,4,3,2,11,{'United States': 11},Control
+Nadir Yehya,2004.0,Mid,M,0000-0002-2996-217X,2023,4,6,1,11,{'United States': 22},Control
+Nadir Yehya,2004.0,Mid,M,0000-0002-2996-217X,2023,2,1,0,7,{'United States': 11},Control
+Nadir Yehya,2004.0,Mid,M,0000-0002-2996-217X,2023,7,1,0,6,{'United States': 8},Control
+Nadir Yehya,2004.0,Mid,M,0000-0002-2996-217X,2023,3,2,3,11,{'United States': 21},Control
+Nadir Yehya,2004.0,Mid,M,0000-0002-2996-217X,2023,6,2,0,6,{'United States': 11},Control
+Nadir Yehya,2004.0,Mid,M,0000-0002-2996-217X,2023,0,7,0,7,{'United States': 7},Control
+Nadir Yehya,2004.0,Mid,M,0000-0002-2996-217X,2023,0,5,0,5,{'United States': 5},Control
+Nadir Yehya,2004.0,Mid,M,0000-0002-2996-217X,2023,0,4,0,4,{'United States': 4},Control
+Nadir Yehya,2004.0,Mid,M,0000-0002-2996-217X,2023,2,2,1,10,{'United States': 23},Control
+Nadir Yehya,2004.0,Mid,M,0000-0002-2996-217X,2023,11,3,3,12,"{'Pakistan': 6, 'United States': 10}",Control
+Vidit Bhargava,2016.0,Early,M,0000-0003-3115-7476,2023,1,2,1,4,{'United States': 5},Control
+Vidit Bhargava,2016.0,Early,M,0000-0003-3115-7476,2023,5,4,1,5,{'United States': 5},Control
+Vidit Bhargava,2016.0,Early,M,0000-0003-3115-7476,2023,0,2,0,2,"{'Canada': 2, 'United States': 1}",Control
+Vidit Bhargava,2016.0,Early,M,0000-0003-3115-7476,2023,5,2,0,2,{'United States': 2},Control
+Vidit Bhargava,2016.0,Early,M,0000-0003-3115-7476,2023,13,6,1,15,{'United States': 26},Control
+Vidit Bhargava,2016.0,Early,M,0000-0003-3115-7476,2023,0,2,0,2,{'United States': 2},Control
+Vidit Bhargava,2016.0,Early,M,0000-0003-3115-7476,2017,5,2,1,4,{'United States': 4},Control
+Vidit Bhargava,2016.0,Early,M,0000-0003-3115-7476,2017,0,5,1,6,{'United States': 6},Control
+Vidit Bhargava,2016.0,Early,M,0000-0003-3115-7476,2017,37,3,0,3,{'United States': 3},Control
+Vidit Bhargava,2016.0,Early,M,0000-0003-3115-7476,2017,0,2,1,4,{'United States': 1},Control
+Sule Doymaz,2009.0,Mid,F,0000-0002-2681-9140,2023,21,7,20,97,"{'United States': 41, 'Norfolk Island': 1}",Control
+Sule Doymaz,2009.0,Mid,F,0000-0002-2681-9140,2017,0,5,0,5,{'United States': 5},Control
+Sandeep Tripathi,2013.0,Early,M,0000-0001-6494-1430,2023,0,3,10,13,{'United States': 2},Control
+Sandeep Tripathi,2013.0,Early,M,0000-0001-6494-1430,2023,16,7,4,25,{'United States': 26},Control
+Sandeep Tripathi,2013.0,Early,M,0000-0001-6494-1430,2023,1,2,8,10,{'United States': 6},Control
+Sandeep Tripathi,2013.0,Early,M,0000-0001-6494-1430,2023,0,3,2,24,{'United States': 52},Control
+Sandeep Tripathi,2013.0,Early,M,0000-0001-6494-1430,2023,7,5,6,12,"{'United States': 10, 'South Korea': 1, 'Canada': 1}",Control
+Sandeep Tripathi,2013.0,Early,M,0000-0001-6494-1430,2023,3,3,7,17,{'United States': 18},Control
+Sandeep Tripathi,2013.0,Early,M,0000-0001-6494-1430,2017,5,1,0,4,{'United States': 4},Control
+Yi-Chen Lai,2002.0,Mid,F,0000-0002-9450-5506,2023,0,0,3,3,{'United States': 1},Control
+Yi-Chen Lai,2002.0,Mid,F,0000-0002-9450-5506,2023,0,3,5,8,{'United States': 6},Control
+Yi-Chen Lai,2002.0,Mid,F,0000-0002-9450-5506,2023,0,0,1,2,{'United States': 2},Control
+Yi-Chen Lai,2002.0,Mid,F,0000-0002-9450-5506,2023,9,2,2,13,{'United States': 13},Control
+Yi-Chen Lai,2002.0,Mid,F,0000-0002-9450-5506,2023,2,27,28,73,{'United States': 86},Control
+Yi-Chen Lai,2002.0,Mid,F,0000-0002-9450-5506,2023,4,1,4,6,{'United States': 7},Control
+Yi-Chen Lai,2002.0,Mid,F,0000-0002-9450-5506,2017,0,2,1,7,"{'Norway': 3, 'United States': 2, 'Denmark': 2}",Control
+Yi-Chen Lai,2002.0,Mid,F,0000-0002-9450-5506,2017,9,3,2,9,{'United States': 9},Control
+Yi-Chen Lai,2002.0,Mid,F,0000-0002-9450-5506,2017,19,1,1,6,{'United States': 8},Control
+Yi-Chen Lai,2002.0,Mid,F,0000-0002-9450-5506,2017,1,0,1,4,{'United States': 8},Control
+Yi-Chen Lai,2002.0,Mid,F,0000-0002-9450-5506,2017,19,2,1,7,"{'Norway': 3, 'United States': 2, 'Denmark': 2}",Control
+Nathan Chang,2020.0,Early,M,0000-0002-9982-3175,2023,0,1,5,6,{'United States': 6},Control
+Nathan Chang,2020.0,Early,M,0000-0002-9982-3175,2023,1,3,3,9,{'United States': 10},Control
+Nathan Chang,2020.0,Early,M,0000-0002-9982-3175,2023,0,2,2,5,{'United States': 5},Control
+Vidit Bhargava,2016.0,Early,M,0000-0003-3115-7476,2023,1,2,1,4,{'United States': 5},Control
+Vidit Bhargava,2016.0,Early,M,0000-0003-3115-7476,2023,5,4,1,5,{'United States': 5},Control
+Vidit Bhargava,2016.0,Early,M,0000-0003-3115-7476,2023,0,2,0,2,"{'Canada': 2, 'United States': 1}",Control
+Vidit Bhargava,2016.0,Early,M,0000-0003-3115-7476,2023,5,2,0,2,{'United States': 2},Control
+Vidit Bhargava,2016.0,Early,M,0000-0003-3115-7476,2023,13,6,1,15,{'United States': 26},Control
+Vidit Bhargava,2016.0,Early,M,0000-0003-3115-7476,2023,0,2,0,2,{'United States': 2},Control
+Vidit Bhargava,2016.0,Early,M,0000-0003-3115-7476,2017,5,2,1,4,{'United States': 4},Control
+Vidit Bhargava,2016.0,Early,M,0000-0003-3115-7476,2017,0,5,1,6,{'United States': 6},Control
+Vidit Bhargava,2016.0,Early,M,0000-0003-3115-7476,2017,37,3,0,3,{'United States': 3},Control
+Vidit Bhargava,2016.0,Early,M,0000-0003-3115-7476,2017,0,2,1,4,{'United States': 1},Control
+Neha Gupta,2015.0,Early,F,0000-0002-7606-4612,2023,1,1,2,3,{'United States': 3},Control
+Neha Gupta,2015.0,Early,F,0000-0002-7606-4612,2023,0,1,5,11,{'United States': 11},Control
+Neha Gupta,2015.0,Early,F,0000-0002-7606-4612,2023,2,0,1,6,{'United States': 6},Control
+Neha Gupta,2015.0,Early,F,0000-0002-7606-4612,2017,7,1,4,5,{'United States': 5},Control
+Daisuke Kawakami,2013.0,Early,M,0000-0001-7325-5512,2023,0,5,0,5,{'Japan': 4},Control
+Daisuke Kawakami,2013.0,Early,M,0000-0001-7325-5512,2023,29,33,4,37,"{'Japan': 37, 'Australia': 2, 'Germany': 1}",Control
+Daisuke Kawakami,2013.0,Early,M,0000-0001-7325-5512,2023,2,15,1,16,"{'Japan': 18, 'Australia': 2}",Control
+Daisuke Kawakami,2013.0,Early,M,0000-0001-7325-5512,2023,8,16,1,17,{'Japan': 22},Control
+Daisuke Kawakami,2013.0,Early,M,0000-0001-7325-5512,2017,26,9,0,10,"{'Japan': 6, 'United States': 3}",Control
+Rimi Tanii,2020.0,Early,F,0000-0002-4783-7161,2023,0,6,2,8,{'Japan': 8},Control
+Rimi Tanii,2020.0,Early,F,0000-0002-4783-7161,2023,0,7,0,7,{'Japan': 7},Control
+Rimi Tanii,2020.0,Early,F,0000-0002-4783-7161,2023,2,5,1,6,"{'Japan': 7, 'United States': 1}",Control
+Takaki Naito,2014.0,Early,M,0000-0001-8333-0141,2023,0,6,2,8,{'Japan': 8},Control
+Takaki Naito,2014.0,Early,M,0000-0001-8333-0141,2023,4,10,1,11,{'Japan': 14},Control
+Takaki Naito,2014.0,Early,M,0000-0001-8333-0141,2023,0,5,0,5,{'Japan': 5},Control
+Takaki Naito,2014.0,Early,M,0000-0001-8333-0141,2017,10,5,2,7,{'Japan': 7},Control
+Takaki Naito,2014.0,Early,M,0000-0001-8333-0141,2017,4,7,1,8,"{'Japan': 7, 'United States': 1}",Control
+Aliaksandr Ramaniuk,2014.0,Early,M,0000-0003-2506-5794,2023,0,2,2,5,{},Control
+Aliaksandr Ramaniuk,2014.0,Early,M,0000-0003-2506-5794,2023,0,2,1,6,{},Control
+Aliaksandr Ramaniuk,2014.0,Early,M,0000-0003-2506-5794,2023,1,3,0,4,{},Control
+Aliaksandr Ramaniuk,2014.0,Early,M,0000-0003-2506-5794,2023,0,2,1,8,{},Control
+Aliaksandr Ramaniuk,2014.0,Early,M,0000-0003-2506-5794,2023,0,2,0,3,{},Control
+Aliaksandr Ramaniuk,2014.0,Early,M,0000-0003-2506-5794,2023,0,1,2,6,{},Control
+Aliaksandr Ramaniuk,2014.0,Early,M,0000-0003-2506-5794,2023,1,2,1,7,{},Control
+Aliaksandr Ramaniuk,2014.0,Early,M,0000-0003-2506-5794,2023,0,2,1,6,{},Control
+Aliaksandr Ramaniuk,2014.0,Early,M,0000-0003-2506-5794,2023,0,3,1,8,{},Control
+Aliaksandr Ramaniuk,2014.0,Early,M,0000-0003-2506-5794,2023,4,3,2,5,{'United States': 5},Control
+Aliaksandr Ramaniuk,2014.0,Early,M,0000-0003-2506-5794,2017,57,4,1,8,{},Control
+Aliaksandr Ramaniuk,2014.0,Early,M,0000-0003-2506-5794,2017,7,3,0,5,"{'Vietnam': 1, 'Poland': 3, 'Portugal': 1}",Control
+Aliaksandr Ramaniuk,2014.0,Early,M,0000-0003-2506-5794,2017,0,6,0,6,{'Poland': 7},Control
+Deepali Dixit,2006.0,Mid,F,0000-0001-7960-0161,2023,0,3,13,18,"{'United States': 13, 'United Kingdom': 1}",Control
+Deepali Dixit,2006.0,Mid,F,0000-0001-7960-0161,2023,0,3,13,18,"{'United States': 13, 'United Kingdom': 1}",Control
+Deepali Dixit,2006.0,Mid,F,0000-0001-7960-0161,2023,2,0,3,6,{'United States': 6},Control
+Deepali Dixit,2006.0,Mid,F,0000-0001-7960-0161,2023,5,0,3,6,{'United States': 8},Control
+Deepali Dixit,2006.0,Mid,F,0000-0001-7960-0161,2023,5,2,4,8,{'United States': 14},Control
+Deepali Dixit,2006.0,Mid,F,0000-0001-7960-0161,2023,12,0,3,17,"{'United States': 17, 'United Kingdom': 1}",Control
+Deepali Dixit,2006.0,Mid,F,0000-0001-7960-0161,2017,31,0,3,4,{},Control
+Amos Lal,2016.0,Early,M,0000-0002-0021-2033,2023,0,2,0,3,{'United States': 3},Control
+Amos Lal,2016.0,Early,M,0000-0002-0021-2033,2023,9,6,3,9,"{'China': 6, 'Japan': 1, 'United States': 2}",Control
+Amos Lal,2016.0,Early,M,0000-0002-0021-2033,2023,0,5,4,9,{},Control
+Amos Lal,2016.0,Early,M,0000-0002-0021-2033,2023,2,8,3,14,"{'China': 15, 'Spain': 1, 'United States': 3, 'France': 1, 'Germany': 1, 'Denmark': 1, 'Singapore': 2, 'Italy': 2}",Control
+Amos Lal,2016.0,Early,M,0000-0002-0021-2033,2023,9,6,4,14,"{'United States': 14, 'Belarus': 1, 'Taiwan': 2}",Control
+Amos Lal,2016.0,Early,M,0000-0002-0021-2033,2023,0,7,10,24,{},Control
+Amos Lal,2016.0,Early,M,0000-0002-0021-2033,2023,0,4,0,6,{},Control
+Amos Lal,2016.0,Early,M,0000-0002-0021-2033,2023,0,6,8,22,{},Control
+Amos Lal,2016.0,Early,M,0000-0002-0021-2033,2023,0,8,8,24,{},Control
+Amos Lal,2016.0,Early,M,0000-0002-0021-2033,2023,0,1,0,6,{},Control
+Amos Lal,2016.0,Early,M,0000-0002-0021-2033,2023,1,2,2,5,{'United States': 5},Control
+Amos Lal,2016.0,Early,M,0000-0002-0021-2033,2023,9,2,2,7,"{'United States': 8, 'Italy': 1}",Control
+Amos Lal,2016.0,Early,M,0000-0002-0021-2033,2023,4,4,1,7,{'United States': 6},Control
+Amos Lal,2016.0,Early,M,0000-0002-0021-2033,2023,3,2,1,5,{'United States': 5},Control
+Amos Lal,2016.0,Early,M,0000-0002-0021-2033,2023,0,5,0,5,{'United States': 5},Control
+Amos Lal,2016.0,Early,M,0000-0002-0021-2033,2023,0,19,1,21,"{'United States': 19, 'Serbia': 1}",Control
+Amos Lal,2016.0,Early,M,0000-0002-0021-2033,2023,1,5,0,5,{'United States': 5},Control
+Amos Lal,2016.0,Early,M,0000-0002-0021-2033,2023,2,10,0,10,{'United States': 10},Control
+Amos Lal,2016.0,Early,M,0000-0002-0021-2033,2023,0,2,1,3,{'United States': 3},Control
+Amos Lal,2016.0,Early,M,0000-0002-0021-2033,2023,15,5,2,7,"{'United States': 7, 'Guadeloupe': 1}",Control
+Sudarshan Srinivasan,2018.0,Early,M,0000-0003-1222-7512,2023,2,5,7,12,{},Control
+Sarah Peacock,2023.0,Early,F,0000-0001-5611-8284,2023,0,1,4,8,"{'United States': 7, 'Argentina': 1}",Control
+Sarah Peacock,2023.0,Early,F,0000-0001-5611-8284,2023,0,1,4,8,"{'United States': 7, 'Argentina': 1}",Control
+Krunal Raval,2012.0,Early,M,0000-0002-7036-7508,2023,3,2,1,3,{'Italy': 3},Control
+Krunal Raval,2012.0,Early,M,0000-0002-7036-7508,2017,2,3,0,3,{'United States': 3},Control
+Krunal Raval,2012.0,Early,M,0000-0002-7036-7508,2017,52,2,0,4,{'United States': 5},Control
+Veerajalandhar Allareddy,2006.0,Mid,U,0000-0003-1942-3241,2023,0,5,3,9,{'United States': 8},Control
+Veerajalandhar Allareddy,2006.0,Mid,U,0000-0003-1942-3241,2023,3,0,0,9,{'United States': 11},Control
+Veerajalandhar Allareddy,2006.0,Mid,U,0000-0003-1942-3241,2017,25,2,0,5,{'United States': 5},Control
+Veerajalandhar Allareddy,2006.0,Mid,U,0000-0003-1942-3241,2017,7,1,0,3,{'United States': 3},Control
+Veerajalandhar Allareddy,2006.0,Mid,U,0000-0003-1942-3241,2017,4,1,0,3,{'United States': 3},Control
+Veerajalandhar Allareddy,2006.0,Mid,U,0000-0003-1942-3241,2017,2,1,0,4,{'United States': 4},Control
+Veerajalandhar Allareddy,2006.0,Mid,U,0000-0003-1942-3241,2017,1,1,1,3,{'United States': 3},Control
+Veerajalandhar Allareddy,2006.0,Mid,U,0000-0003-1942-3241,2017,11,1,0,3,{'United States': 3},Control
+Veerajalandhar Allareddy,2006.0,Mid,U,0000-0003-1942-3241,2017,7,2,0,3,{'United States': 3},Control
+Veerajalandhar Allareddy,2006.0,Mid,U,0000-0003-1942-3241,2017,8,1,0,4,{'United States': 5},Control
+Veerajalandhar Allareddy,2006.0,Mid,U,0000-0003-1942-3241,2017,23,1,1,6,{'United States': 7},Control
+Pradip Ramamurti,2019.0,Early,M,0000-0001-8094-5562,2023,1,5,1,8,{'United States': 9},Control
+Pradip Ramamurti,2019.0,Early,M,0000-0001-8094-5562,2023,7,1,2,7,{'United States': 7},Control
+Pradip Ramamurti,2019.0,Early,M,0000-0001-8094-5562,2023,0,1,0,5,{'United States': 5},Control
+Pradip Ramamurti,2019.0,Early,M,0000-0001-8094-5562,2023,2,2,0,10,{'United States': 10},Control
+Pradip Ramamurti,2019.0,Early,M,0000-0001-8094-5562,2023,1,1,1,6,{'United States': 6},Control
+Pradip Ramamurti,2019.0,Early,M,0000-0001-8094-5562,2023,3,6,0,10,{'United States': 10},Control
+Pradip Ramamurti,2019.0,Early,M,0000-0001-8094-5562,2023,5,1,0,6,{'United States': 6},Control
+Pradip Ramamurti,2019.0,Early,M,0000-0001-8094-5562,2023,2,3,1,6,{'United States': 6},Control
+Pradip Ramamurti,2019.0,Early,M,0000-0001-8094-5562,2023,14,4,0,5,{'United States': 5},Control
+Kiyohiro Oshima,1995.0,Senior,M,0000-0003-2108-6109,2023,0,6,2,8,{'Japan': 8},Control
+Kiyohiro Oshima,1995.0,Senior,M,0000-0003-2108-6109,2023,4,8,0,9,{'Japan': 15},Control
+Kiyohiro Oshima,1995.0,Senior,M,0000-0003-2108-6109,2023,0,5,1,6,{'Japan': 6},Control
+Kiyohiro Oshima,1995.0,Senior,M,0000-0003-2108-6109,2023,1,7,1,8,{'Japan': 8},Control
+Kiyohiro Oshima,1995.0,Senior,M,0000-0003-2108-6109,2023,1,5,1,6,{'Japan': 6},Control
+Kiyohiro Oshima,1995.0,Senior,M,0000-0003-2108-6109,2023,0,11,3,14,{'Japan': 14},Control
+Kiyohiro Oshima,1995.0,Senior,M,0000-0003-2108-6109,2023,2,6,2,8,{'Japan': 8},Control
+Kiyohiro Oshima,1995.0,Senior,M,0000-0003-2108-6109,2023,1,7,1,8,{'Japan': 8},Control
+Kiyohiro Oshima,1995.0,Senior,M,0000-0003-2108-6109,2023,0,8,3,11,{'Japan': 17},Control
+Kiyohiro Oshima,1995.0,Senior,M,0000-0003-2108-6109,2017,2,6,0,6,{'Japan': 7},Control
+Kiyohiro Oshima,1995.0,Senior,M,0000-0003-2108-6109,2017,11,3,0,3,{'Japan': 3},Control
+Kiyohiro Oshima,1995.0,Senior,M,0000-0003-2108-6109,2017,5,6,0,6,{'Japan': 6},Control
+Kiyohiro Oshima,1995.0,Senior,M,0000-0003-2108-6109,2017,2,9,1,10,{'Japan': 20},Control
+Ryuichiro Kakizaki,2017.0,Early,M,0000-0002-6914-506X,2023,0,4,0,4,{'Japan': 4},Control
+Ryuichiro Kakizaki,2017.0,Early,M,0000-0002-6914-506X,2023,10,12,0,13,{'Japan': 12},Control
+Ryuichiro Kakizaki,2017.0,Early,M,0000-0002-6914-506X,2023,0,11,0,11,{'Japan': 11},Control
+Ryuichiro Kakizaki,2017.0,Early,M,0000-0002-6914-506X,2017,12,9,1,10,{'Japan': 10},Control
+Taegyun Kim,2008.0,Mid,M,0000-0002-3770-3944,2023,0,4,2,13,"{'South Korea': 11, 'United States': 4}",Control
+Taegyun Kim,2008.0,Mid,M,0000-0002-3770-3944,2023,0,2,2,9,{'South Korea': 18},Control
+Taegyun Kim,2008.0,Mid,M,0000-0002-3770-3944,2023,0,3,2,7,{'South Korea': 10},Control
+Taegyun Kim,2008.0,Mid,M,0000-0002-3770-3944,2023,4,2,2,8,{'South Korea': 8},Control
+Taegyun Kim,2008.0,Mid,M,0000-0002-3770-3944,2017,9,1,0,7,{'South Korea': 7},Control
+Taegyun Kim,2008.0,Mid,M,0000-0002-3770-3944,2017,17,3,0,8,{'South Korea': 10},Control
+Taegyun Kim,2008.0,Mid,M,0000-0002-3770-3944,2017,14,2,0,8,{'South Korea': 8},Control
+Taegyun Kim,2008.0,Mid,M,0000-0002-3770-3944,2017,18,1,0,7,{'South Korea': 14},Control
+Somnath Bose,2007.0,Mid,M,0000-0001-7310-9881,2023,1,2,2,5,{},Control
+Somnath Bose,2007.0,Mid,M,0000-0001-7310-9881,2023,0,4,0,4,{'United States': 8},Control
+Somnath Bose,2007.0,Mid,M,0000-0001-7310-9881,2023,0,14,24,49,{'United States': 8},Control
+Somnath Bose,2007.0,Mid,M,0000-0001-7310-9881,2023,6,3,3,15,{'United States': 26},Control
+Somnath Bose,2007.0,Mid,M,0000-0001-7310-9881,2023,4,14,25,51,{'United States': 23},Control
+Somnath Bose,2007.0,Mid,M,0000-0001-7310-9881,2023,2,13,25,51,{'United States': 16},Control
+Somnath Bose,2007.0,Mid,M,0000-0001-7310-9881,2023,7,2,1,9,{'United States': 11},Control
+Somnath Bose,2007.0,Mid,M,0000-0001-7310-9881,2017,54,3,0,10,{'United States': 16},Control
+Somnath Bose,2007.0,Mid,M,0000-0001-7310-9881,2017,1,4,0,4,{'United States': 4},Control
+Somnath Bose,2007.0,Mid,M,0000-0001-7310-9881,2017,1,1,1,2,{'United States': 4},Control
+Somnath Bose,2007.0,Mid,M,0000-0001-7310-9881,2017,0,1,0,1,{'United States': 1},Control
+Somnath Bose,2007.0,Mid,M,0000-0001-7310-9881,2017,1,1,1,2,{'United States': 2},Control
+Dieter Bender,2014.0,Early,M,0000-0003-3481-9949,2023,4,8,4,20,{'United States': 21},Control
+Dieter Bender,2014.0,Early,M,0000-0003-3481-9949,2023,0,3,2,9,{'United States': 9},Control
+Dieter Bender,2014.0,Early,M,0000-0003-3481-9949,2023,11,5,1,19,{'United States': 5},Control
+Dieter Bender,2014.0,Early,M,0000-0003-3481-9949,2017,1,2,0,4,{'United States': 4},Control
+Wanchun Tang,1990.0,Senior,F,0000-0003-3940-6369,2017,6,5,3,8,"{'China': 12, 'United States': 1}",Control
+Wanchun Tang,1990.0,Senior,F,0000-0003-3940-6369,2017,4,6,2,8,"{'China': 10, 'United States': 2}",Control
+Wanchun Tang,1990.0,Senior,F,0000-0003-3940-6369,2017,20,1,2,9,{'United States': 9},Control
+Wanchun Tang,1990.0,Senior,F,0000-0003-3940-6369,2017,7,8,2,10,{'China': 10},Control
+Wanchun Tang,1990.0,Senior,F,0000-0003-3940-6369,2017,6,5,3,8,"{'China': 12, 'United States': 1}",Control
+Wanchun Tang,1990.0,Senior,F,0000-0003-3940-6369,2017,4,6,2,8,"{'China': 10, 'United States': 2}",Control
+Wanchun Tang,1990.0,Senior,F,0000-0003-3940-6369,2017,20,1,2,9,{'United States': 9},Control
+Wanchun Tang,1990.0,Senior,F,0000-0003-3940-6369,2017,7,8,2,10,{'China': 10},Control
+Taegyun Kim,2008.0,Mid,M,0000-0002-3770-3944,2023,0,4,2,13,"{'South Korea': 11, 'United States': 4}",Control
+Taegyun Kim,2008.0,Mid,M,0000-0002-3770-3944,2023,0,2,2,9,{'South Korea': 18},Control
+Taegyun Kim,2008.0,Mid,M,0000-0002-3770-3944,2023,0,3,2,7,{'South Korea': 10},Control
+Taegyun Kim,2008.0,Mid,M,0000-0002-3770-3944,2023,4,2,2,8,{'South Korea': 8},Control
+Taegyun Kim,2008.0,Mid,M,0000-0002-3770-3944,2017,9,1,0,7,{'South Korea': 7},Control
+Taegyun Kim,2008.0,Mid,M,0000-0002-3770-3944,2017,17,3,0,8,{'South Korea': 10},Control
+Taegyun Kim,2008.0,Mid,M,0000-0002-3770-3944,2017,14,2,0,8,{'South Korea': 8},Control
+Taegyun Kim,2008.0,Mid,M,0000-0002-3770-3944,2017,18,1,0,7,{'South Korea': 14},Control
+Heewon Yang,2019.0,Early,F,0000-0002-7592-2240,2023,0,2,1,4,{'South Korea': 4},Control
+Heewon Yang,2019.0,Early,F,0000-0002-7592-2240,2023,1,2,2,4,{'South Korea': 4},Control
+Heewon Yang,2019.0,Early,F,0000-0002-7592-2240,2023,19,2,2,5,{'South Korea': 5},Control
+Heewon Yang,2019.0,Early,F,0000-0002-7592-2240,2017,9,1,0,4,{'South Korea': 4},Control
+Yun Ge,2012.0,Early,F,0000-0001-6769-5458,2023,37,4,7,11,"{'China': 14, 'United States': 4}",Control
+Yun Ge,2012.0,Early,F,0000-0001-6769-5458,2023,0,2,3,7,{},Control
+Yun Ge,2012.0,Early,F,0000-0001-6769-5458,2023,0,13,5,18,{'China': 16},Control
+Yun Ge,2012.0,Early,F,0000-0001-6769-5458,2023,2,13,4,17,{'China': 18},Control
+Yun Ge,2012.0,Early,F,0000-0001-6769-5458,2023,17,2,2,6,{'China': 9},Control
+Yun Ge,2012.0,Early,F,0000-0001-6769-5458,2023,4,1,2,4,"{'United States': 3, 'China': 2}",Control
+Yun Ge,2012.0,Early,F,0000-0001-6769-5458,2017,31,5,5,11,{'China': 17},Control
+Yun Ge,2012.0,Early,F,0000-0001-6769-5458,2017,9,4,3,8,{'China': 9},Control
+Yun Ge,2012.0,Early,F,0000-0001-6769-5458,2017,52,4,3,8,{'China': 9},Control
+Sua Kim,2011.0,Mid,F,0000-0003-3513-7261,2023,1,1,2,7,{'South Korea': 14},Control
+Sua Kim,2011.0,Mid,F,0000-0003-3513-7261,2023,2,1,2,7,{'South Korea': 16},Control
+Hideki Yoshida,2000.0,Senior,M,0000-0001-5911-0659,2023,5,2,1,4,{'Japan': 4},Control
+Hideki Yoshida,2000.0,Senior,M,0000-0001-5911-0659,2023,4,5,1,6,{'Japan': 7},Control
+Hideki Yoshida,2000.0,Senior,M,0000-0001-5911-0659,2023,4,6,2,10,"{'Thailand': 8, 'Japan': 4}",Control
+Hideki Yoshida,2000.0,Senior,M,0000-0001-5911-0659,2023,0,3,1,5,"{'Japan': 3, 'Thailand': 2}",Control
+Hideki Yoshida,2000.0,Senior,M,0000-0001-5911-0659,2017,32,2,1,4,{'Japan': 6},Control
+Hideki Yoshida,2000.0,Senior,M,0000-0001-5911-0659,2017,0,11,0,11,{'Japan': 16},Control
+Hideki Yoshida,2000.0,Senior,M,0000-0001-5911-0659,2017,3,11,0,11,{'Japan': 16},Control
+Hideki Yoshida,2000.0,Senior,M,0000-0001-5911-0659,2017,5,5,1,7,"{'Japan': 4, 'South Korea': 3}",Control
+Hideki Yoshida,2000.0,Senior,M,0000-0001-5911-0659,2017,10,7,2,9,{'Japan': 13},Control
+Hideki Yoshida,2000.0,Senior,M,0000-0001-5911-0659,2017,29,8,1,9,{'Japan': 13},Control
+Hideki Yoshida,2000.0,Senior,M,0000-0001-5911-0659,2017,37,6,0,7,{'Japan': 11},Control
+Hideki Yoshida,2000.0,Senior,M,0000-0001-5911-0659,2017,0,5,0,6,{'Japan': 6},Control
+Hideki Yoshida,2000.0,Senior,M,0000-0001-5911-0659,2017,10,6,1,7,{'Japan': 12},Control
+Hideki Yoshida,2000.0,Senior,M,0000-0001-5911-0659,2017,10,6,2,9,"{'Japan': 8, 'Canada': 1}",Control
+Hideki Yoshida,2000.0,Senior,M,0000-0001-5911-0659,2017,2,2,0,4,{'Japan': 4},Control
+Hideki Yoshida,2000.0,Senior,M,0000-0001-5911-0659,2017,20,4,1,6,"{'Vietnam': 1, 'Japan': 6, 'Mexico': 1}",Control
+Xing Song,2018.0,Early,M,0000-0002-3712-2904,2023,0,3,1,6,{'United States': 6},Control
+Xing Song,2018.0,Early,M,0000-0002-3712-2904,2023,1,1,3,14,{'United States': 14},Control
+Xing Song,2018.0,Early,M,0000-0002-3712-2904,2023,15,5,0,8,{'United States': 10},Control
+Xing Song,2018.0,Early,M,0000-0002-3712-2904,2023,7,10,3,18,{'United States': 18},Control
+Xing Song,2018.0,Early,M,0000-0002-3712-2904,2023,2,2,1,8,{'United States': 8},Control
+Xing Song,2018.0,Early,M,0000-0002-3712-2904,2023,0,2,0,5,{},Control
+Xing Song,2018.0,Early,M,0000-0002-3712-2904,2023,1,3,1,7,{'United States': 12},Control
+Xing Song,2018.0,Early,M,0000-0002-3712-2904,2023,8,4,1,8,{'United States': 8},Control
+Xing Song,2018.0,Early,M,0000-0002-3712-2904,2023,4,4,1,7,{'United States': 8},Control
+Maja Kopczynska,2016.0,Early,F,0000-0003-3448-9476,2023,0,9,0,9,"{'United Kingdom': 7, 'Israel': 1, 'Sweden': 1}",Control
+Maja Kopczynska,2016.0,Early,F,0000-0003-3448-9476,2023,0,4,0,4,{'United Kingdom': 4},Control
+Maja Kopczynska,2016.0,Early,F,0000-0003-3448-9476,2023,0,9,0,9,"{'United Kingdom': 9, 'Denmark': 2}",Control
+Maja Kopczynska,2016.0,Early,F,0000-0003-3448-9476,2023,4,5,4,9,"{'United Kingdom': 11, 'Israel': 2, 'Sweden': 1}",Control
+Maja Kopczynska,2016.0,Early,F,0000-0003-3448-9476,2023,0,5,3,8,{},Control
+Maja Kopczynska,2016.0,Early,F,0000-0003-3448-9476,2023,0,10,0,10,{'United Kingdom': 10},Control
+Maja Kopczynska,2016.0,Early,F,0000-0003-3448-9476,2023,2,5,4,9,{},Control
+Maja Kopczynska,2016.0,Early,F,0000-0003-3448-9476,2017,0,7,0,7,{},Control
+Maja Kopczynska,2016.0,Early,F,0000-0003-3448-9476,2017,64,2,5,9,{'United Kingdom': 9},Control
+Maja Kopczynska,2016.0,Early,F,0000-0003-3448-9476,2017,55,30,0,40,{'United Kingdom': 41},Control
+Maja Kopczynska,2016.0,Early,F,0000-0003-3448-9476,2017,0,3,2,8,{'United Kingdom': 8},Control
+Ming Xue,2017.0,Early,M,0000-0002-5178-6424,2023,2,3,2,5,{'China': 10},Control
+Ming Xue,2017.0,Early,M,0000-0002-5178-6424,2017,10,3,5,8,{'China': 8},Control
+Ming Xue,2017.0,Early,M,0000-0002-5178-6424,2017,4,820,19,957,"{'Greece': 25, 'United States': 71, 'China': 33, 'Belgium': 19, 'France': 57, 'Turkey': 18, 'Romania': 3, 'Italy': 263, 'Germany': 33, 'Sweden': 26, 'Slovenia': 5, 'Netherlands': 41, 'Australia': 7, 'Israel': 2, 'United Kingdom': 34, 'Spain': 49, 'Croatia': 13, 'Switzerland': 17, 'Canada': 11, 'Thailand': 22, 'Belarus': 3, 'Austria': 8, 'Portugal': 2, 'Poland': 22, 'Ukraine': 3, 'South Korea': 2, 'India': 6, 'Mexico': 7, 'Lithuania': 14, 'Russia': 14, 'Tunisia': 20, 'Egypt': 16, 'Brazil': 83, 'Norway': 2, 'Latvia': 4, 'Kuwait': 2, 'Japan': 1, 'Saudi Arabia': 4, 'Chile': 10, 'Serbia': 1, 'Denmark': 3}",Control
+Sanjoy Roychowdhury,2001.0,Senior,M,0000-0002-1264-6496,2023,0,2,3,5,{'United States': 5},Control
+Sanjoy Roychowdhury,2001.0,Senior,M,0000-0002-1264-6496,2023,3,2,3,5,{'United States': 7},Control
+Sanjoy Roychowdhury,2001.0,Senior,M,0000-0002-1264-6496,2023,0,5,3,8,{'United States': 8},Control
+Sanjoy Roychowdhury,2001.0,Senior,M,0000-0002-1264-6496,2023,13,6,6,19,{'United States': 23},Control
+Sanjoy Roychowdhury,2001.0,Senior,M,0000-0002-1264-6496,2023,10,4,1,8,{'United States': 8},Control
+Sanjoy Roychowdhury,2001.0,Senior,M,0000-0002-1264-6496,2023,14,3,4,9,{'United States': 11},Control
+Sanjoy Roychowdhury,2001.0,Senior,M,0000-0002-1264-6496,2017,42,4,1,10,{'United States': 17},Control
+Sanjoy Roychowdhury,2001.0,Senior,M,0000-0002-1264-6496,2017,6,3,3,9,{'United States': 13},Control
+Sanjoy Roychowdhury,2001.0,Senior,M,0000-0002-1264-6496,2017,23,3,3,10,{'United States': 20},Control
+Bereketeab Haileselassie,2009.0,Mid,U,0000-0002-0120-3366,2023,0,6,2,11,"{'United States': 8, 'Brazil': 3}",Control
+Bereketeab Haileselassie,2009.0,Mid,U,0000-0002-0120-3366,2023,0,3,3,8,"{'United States': 7, 'Taiwan': 1}",Control
+Bereketeab Haileselassie,2009.0,Mid,U,0000-0002-0120-3366,2023,11,6,0,26,"{'United States': 26, 'India': 2}",Control
+Bereketeab Haileselassie,2009.0,Mid,U,0000-0002-0120-3366,2023,0,4,2,11,{'United States': 11},Control
+Bereketeab Haileselassie,2009.0,Mid,U,0000-0002-0120-3366,2023,0,0,3,4,{'United States': 1},Control
+Bereketeab Haileselassie,2009.0,Mid,U,0000-0002-0120-3366,2023,0,4,12,17,{'United States': 12},Control
+Bereketeab Haileselassie,2009.0,Mid,U,0000-0002-0120-3366,2023,1,8,2,27,{'United States': 38},Control
+Bereketeab Haileselassie,2009.0,Mid,U,0000-0002-0120-3366,2023,0,6,7,16,{'United States': 16},Control
+Bereketeab Haileselassie,2009.0,Mid,U,0000-0002-0120-3366,2023,3,2,2,19,{'United States': 26},Control
+Bereketeab Haileselassie,2009.0,Mid,U,0000-0002-0120-3366,2023,2,1,1,8,{'United States': 11},Control
+Bereketeab Haileselassie,2009.0,Mid,U,0000-0002-0120-3366,2023,0,1,3,10,{'United States': 10},Control
+Bereketeab Haileselassie,2009.0,Mid,U,0000-0002-0120-3366,2023,0,3,2,14,{'United States': 16},Control
+Bereketeab Haileselassie,2009.0,Mid,U,0000-0002-0120-3366,2023,1,1,0,2,{'United States': 2},Control
+Bereketeab Haileselassie,2009.0,Mid,U,0000-0002-0120-3366,2023,1,5,0,16,{'United States': 17},Control
+Bereketeab Haileselassie,2009.0,Mid,U,0000-0002-0120-3366,2023,5,3,1,15,{'United States': 16},Control
+Bereketeab Haileselassie,2009.0,Mid,U,0000-0002-0120-3366,2023,31,3,1,6,"{'United States': 6, 'Taiwan': 1}",Control
+Bereketeab Haileselassie,2009.0,Mid,U,0000-0002-0120-3366,2023,24,4,0,18,{'United States': 23},Control
+Bereketeab Haileselassie,2009.0,Mid,U,0000-0002-0120-3366,2023,0,8,2,18,{'United States': 18},Control
+Bereketeab Haileselassie,2009.0,Mid,U,0000-0002-0120-3366,2023,2,5,2,22,"{'United States': 23, 'Canada': 4}",Control
+Bereketeab Haileselassie,2009.0,Mid,U,0000-0002-0120-3366,2023,0,4,1,13,{'United States': 14},Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,0,7,3,11,"{'Japan': 11, 'United States': 1}",Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,0,2,0,2,{'Japan': 2},Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,0,28,6,34,"{'Japan': 10, 'Australia': 2}",Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,0,2,0,5,"{'United States': 3, 'Japan': 2}",Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,3,1,1,3,"{'United States': 1, 'Japan': 2}",Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,26,63,10,73,"{'Japan': 73, 'United States': 1, 'Germany': 1, 'Australia': 2}",Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,1,104,19,124,"{'Japan': 114, 'United States': 2}",Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,1,29,0,32,"{'Japan': 31, 'United Kingdom': 4}",Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,1,1,0,2,{'United States': 2},Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,1,6,3,9,"{'Japan': 9, 'United States': 1}",Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,0,4,0,4,{'Japan': 4},Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,1,3,0,3,{'Japan': 3},Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,0,2,0,2,{'Japan': 2},Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,2,3,0,3,{'Japan': 4},Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2023,16,14,3,18,"{'Japan': 17, 'United States': 1}",Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2017,53,2,0,2,{'Japan': 2},Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2017,0,3,0,3,{'Japan': 3},Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2017,14,1,0,2,"{'United States': 2, 'Japan': 1}",Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2017,5,3,0,3,{'Japan': 3},Control
+Akira Kuriyama,2011.0,Mid,M,0000-0001-5738-4031,2017,9,10,0,10,"{'Japan': 10, 'United States': 1}",Control
+Nasim Motayar,2015.0,Early,M,0009-0005-7344-6964,2023,0,6,0,6,{'United States': 6},Control
+Yuliya Pinevich,2019.0,Early,F,0000-0001-9005-8844,2023,0,5,3,8,{'United States': 8},Control
+Yuliya Pinevich,2019.0,Early,F,0000-0001-9005-8844,2023,9,6,4,14,"{'United States': 14, 'Belarus': 1, 'Taiwan': 2}",Control
+Yuliya Pinevich,2019.0,Early,F,0000-0001-9005-8844,2023,3,1,2,6,"{'United States': 7, 'Belarus': 1}",Control
+Yuliya Pinevich,2019.0,Early,F,0000-0001-9005-8844,2023,6,2,3,9,"{'United States': 11, 'Belarus': 1}",Control
+Yuliya Pinevich,2019.0,Early,F,0000-0001-9005-8844,2023,9,1,4,8,"{'United States': 8, 'China': 1}",Control
+Yuliya Pinevich,2019.0,Early,F,0000-0001-9005-8844,2023,19,3,2,16,{'United States': 16},Control
+Yuliya Pinevich,2019.0,Early,F,0000-0001-9005-8844,2023,1,3,4,10,{'United States': 10},Control
+Ashley Taylor,2019.0,Early,F,0000-0001-7713-0768,2023,0,1,4,8,{'United States': 9},Control
+Ali Seifi,2017.0,Early,M,0000-0002-2320-4618,2017,22,3,0,4,{'Iran': 4},Control
+Ali Seifi,2017.0,Early,M,0000-0002-2320-4618,2017,35,2,0,4,{'Iran': 4},Control
+Kaori Ito,2017.0,Early,F,0000-0001-5276-2064,2023,0,4,3,7,{'Japan': 7},Control
+Kaori Ito,2017.0,Early,F,0000-0001-5276-2064,2023,0,3,1,4,{'Japan': 4},Control
+Kaori Ito,2017.0,Early,F,0000-0001-5276-2064,2023,11,26,4,30,{'Japan': 31},Control
+Kaori Ito,2017.0,Early,F,0000-0001-5276-2064,2023,4,2,2,5,"{'Thailand': 2, 'United States': 9, 'Japan': 1}",Control
+Kaori Ito,2017.0,Early,F,0000-0001-5276-2064,2023,0,2,4,6,{'Japan': 7},Control
+Kaori Ito,2017.0,Early,F,0000-0001-5276-2064,2023,0,2,3,5,{'Japan': 5},Control
+Kaori Ito,2017.0,Early,F,0000-0001-5276-2064,2023,3,3,5,8,"{'United States': 7, 'Japan': 3}",Control
+Kaori Ito,2017.0,Early,F,0000-0001-5276-2064,2023,2,2,3,5,{'Japan': 6},Control
+Kaori Ito,2017.0,Early,F,0000-0001-5276-2064,2023,1,3,1,4,"{'Japan': 8, 'United States': 4}",Control
+Kaori Ito,2017.0,Early,F,0000-0001-5276-2064,2023,0,2,2,4,{'Japan': 4},Control
+Kaori Ito,2017.0,Early,F,0000-0001-5276-2064,2017,3,0,2,2,"{'United States': 2, 'Japan': 1}",Control
+Takaharu Karube,2020.0,Early,M,0000-0002-6731-1546,2023,3,1,0,2,{'United States': 2},Control
+Lama H Nazer,2012.0,Early,F,0000-0002-7550-4751,2023,0,1,10,13,{},Treatment
+Lama H Nazer,2012.0,Early,F,0000-0002-7550-4751,2023,0,4,5,9,"{'Jordan': 8, 'Australia': 1}",Treatment
+Lama H Nazer,2012.0,Early,F,0000-0002-7550-4751,2023,0,2,5,7,{'Jordan': 7},Treatment
+Lama H Nazer,2012.0,Early,F,0000-0002-7550-4751,2023,0,4,5,9,"{'Jordan': 8, 'Australia': 1}",Treatment
+Lama H Nazer,2012.0,Early,F,0000-0002-7550-4751,2023,0,0,4,4,{'Jordan': 4},Treatment
+Lama H Nazer,2012.0,Early,F,0000-0002-7550-4751,2023,7,10,8,19,"{'Jordan': 4, 'United Kingdom': 1, 'United States': 10, 'Sudan': 2, 'Germany': 1, 'Malawi': 1, 'Thailand': 1, 'New Zealand': 1}",Treatment
+Lama H Nazer,2012.0,Early,F,0000-0002-7550-4751,2023,9,7,7,18,"{'United Kingdom': 3, 'Australia': 1, 'Philippines': 3, 'Colombia': 2, 'United States': 7, 'Nicaragua': 1, 'South Africa': 2, 'Uganda': 1, 'South Korea': 1, 'Mexico': 1, 'Jordan': 1}",Treatment
+Lama H Nazer,2012.0,Early,F,0000-0002-7550-4751,2023,13,4,5,9,"{'United States': 10, 'Jordan': 3}",Treatment
+Lama H Nazer,2012.0,Early,F,0000-0002-7550-4751,2023,207,3,4,11,"{'Jordan': 2, 'United States': 10, 'Canada': 2}",Treatment
+Lama H Nazer,2012.0,Early,F,0000-0002-7550-4751,2023,5,1,6,25,"{'United States': 24, 'Singapore': 1, 'South Africa': 2, 'Jordan': 1, 'Canada': 1}",Treatment
+Lama H Nazer,2012.0,Early,F,0000-0002-7550-4751,2023,26,5,5,14,"{'United States': 10, 'United Kingdom': 1, 'Malawi': 1, 'Philippines': 1, 'Thailand': 1, 'Uganda': 1, 'Jordan': 1}",Treatment
+Lama H Nazer,2012.0,Early,F,0000-0002-7550-4751,2023,3,0,6,6,{'Jordan': 6},Treatment
+Lama H Nazer,2012.0,Early,F,0000-0002-7550-4751,2023,1,1,2,4,{'Jordan': 4},Treatment
+Lama H Nazer,2012.0,Early,F,0000-0002-7550-4751,2017,17,1,6,8,{'Jordan': 8},Treatment
+Lama H Nazer,2012.0,Early,F,0000-0002-7550-4751,2017,146,1,0,2,"{'Jordan': 1, 'Australia': 1}",Treatment
+Lama H Nazer,2012.0,Early,F,0000-0002-7550-4751,2017,1,0,1,2,{'Jordan': 2},Treatment
+Siddharth Pawan Dugar,2011.0,Mid,M,0000-0002-3243-1417,2023,2,4,0,5,"{'United States': 6, 'Japan': 1}",Treatment
+Siddharth Pawan Dugar,2011.0,Mid,M,0000-0002-3243-1417,2023,1,5,0,5,{'United States': 5},Treatment
+Siddharth Pawan Dugar,2011.0,Mid,M,0000-0002-3243-1417,2023,7,8,0,9,"{'Poland': 3, 'Italy': 3, 'Belgium': 2, 'United States': 2, 'Sweden': 1}",Treatment
+Siddharth Pawan Dugar,2011.0,Mid,M,0000-0002-3243-1417,2023,0,5,1,9,{'United States': 10},Treatment
+Siddharth Pawan Dugar,2011.0,Mid,M,0000-0002-3243-1417,2023,0,4,0,4,{},Treatment
+Siddharth Pawan Dugar,2011.0,Mid,M,0000-0002-3243-1417,2023,0,5,0,7,{},Treatment
+Siddharth Pawan Dugar,2011.0,Mid,M,0000-0002-3243-1417,2023,5,4,0,5,"{'United States': 5, 'Japan': 1}",Treatment
+Siddharth Pawan Dugar,2011.0,Mid,M,0000-0002-3243-1417,2023,0,3,1,7,"{'United States': 6, 'Israel': 1}",Treatment
+Siddharth Pawan Dugar,2011.0,Mid,M,0000-0002-3243-1417,2023,3,4,0,4,"{'United States': 4, 'Japan': 1}",Treatment
+Siddharth Pawan Dugar,2011.0,Mid,M,0000-0002-3243-1417,2023,1,4,0,5,{'United States': 6},Treatment
+Siddharth Pawan Dugar,2011.0,Mid,M,0000-0002-3243-1417,2023,26,3,1,9,{'United States': 9},Treatment
+Siddharth Pawan Dugar,2011.0,Mid,M,0000-0002-3243-1417,2023,0,3,2,11,"{'United States': 18, 'Canada': 1}",Treatment
+Siddharth Pawan Dugar,2011.0,Mid,M,0000-0002-3243-1417,2023,5,13,0,16,"{'United Kingdom': 20, 'United States': 12, 'Italy': 4, 'Singapore': 5}",Treatment
+Siddharth Pawan Dugar,2011.0,Mid,M,0000-0002-3243-1417,2023,5,9,1,10,"{'United States': 12, 'Italy': 2}",Treatment
+Siddharth Pawan Dugar,2011.0,Mid,M,0000-0002-3243-1417,2023,10,142,247,513,"{'United States': 95, 'United Kingdom': 6, 'Brazil': 3, 'Denmark': 6}",Treatment
+Siddharth Pawan Dugar,2011.0,Mid,M,0000-0002-3243-1417,2023,5,13,0,16,"{'United Kingdom': 20, 'Italy': 4, 'United States': 12, 'Singapore': 5}",Treatment
+Siddharth Pawan Dugar,2011.0,Mid,M,0000-0002-3243-1417,2023,17,6,1,7,"{'United States': 7, 'Japan': 1}",Treatment
+Siddharth Pawan Dugar,2011.0,Mid,M,0000-0002-3243-1417,2023,3,4,0,4,"{'United States': 4, 'Japan': 1}",Treatment
+Siddharth Pawan Dugar,2011.0,Mid,M,0000-0002-3243-1417,2023,0,2,0,4,{'United States': 4},Treatment
+Siddharth Pawan Dugar,2011.0,Mid,M,0000-0002-3243-1417,2023,5,4,1,9,{'United States': 16},Treatment
+Randeep Singh Jawa,2004.0,Mid,M,0000-0002-4482-4699,2023,1,5,5,11,{'United States': 11},Treatment
+Randeep Singh Jawa,2004.0,Mid,M,0000-0002-4482-4699,2023,0,2,3,7,{'United States': 7},Treatment
+Randeep Singh Jawa,2004.0,Mid,M,0000-0002-4482-4699,2023,2,3,2,7,{'United States': 7},Treatment
+Randeep Singh Jawa,2004.0,Mid,M,0000-0002-4482-4699,2023,0,55,37,138,{'United States': 12},Treatment
+Randeep Singh Jawa,2004.0,Mid,M,0000-0002-4482-4699,2023,0,16,13,62,{},Treatment
+Randeep Singh Jawa,2004.0,Mid,M,0000-0002-4482-4699,2023,14,54,43,145,{'United States': 24},Treatment
+Randeep Singh Jawa,2004.0,Mid,M,0000-0002-4482-4699,2023,1,1,0,2,{'United States': 2},Treatment
+Randeep Singh Jawa,2004.0,Mid,M,0000-0002-4482-4699,2023,8,15,13,62,"{'United States': 24, 'Ecuador': 1, 'Nigeria': 4, 'Rwanda': 2, 'Ethiopia': 3, 'Colombia': 1, 'United Kingdom': 4, 'India': 3, 'Brazil': 5, 'Bangladesh': 1, 'Botswana': 2, 'Canada': 3, 'Uganda': 2, 'Mongolia': 1, 'Kenya': 5, 'Pakistan': 1, 'Honduras': 1, 'Philippines': 1, 'Mexico': 1, 'Singapore': 1, 'South Africa': 1, 'Uruguay': 2}",Treatment
+Randeep Singh Jawa,2004.0,Mid,M,0000-0002-4482-4699,2023,1,10,7,33,{'United States': 17},Treatment
+Randeep Singh Jawa,2004.0,Mid,M,0000-0002-4482-4699,2023,3,59,39,140,{'United States': 10},Treatment
+Randeep Singh Jawa,2004.0,Mid,M,0000-0002-4482-4699,2023,2,57,39,136,{'United States': 15},Treatment
+Randeep Singh Jawa,2004.0,Mid,M,0000-0002-4482-4699,2023,3,56,38,136,"{'Canada': 2, 'United States': 8}",Treatment
+Randeep Singh Jawa,2004.0,Mid,M,0000-0002-4482-4699,2023,11,62,41,141,"{'United States': 15, 'China': 3}",Treatment
+Randeep Singh Jawa,2004.0,Mid,M,0000-0002-4482-4699,2017,20,4,3,14,{'United States': 27},Treatment
+Randeep Singh Jawa,2004.0,Mid,M,0000-0002-4482-4699,2017,29,0,0,6,{'United States': 6},Treatment
+Randeep Singh Jawa,2004.0,Mid,M,0000-0002-4482-4699,2017,2,0,0,2,{'United States': 2},Treatment
+Randeep Singh Jawa,2004.0,Mid,M,0000-0002-4482-4699,2017,24,0,0,7,{'United States': 7},Treatment
+Randeep Singh Jawa,2004.0,Mid,M,0000-0002-4482-4699,2017,19,2,0,7,{'United States': 7},Treatment
+Randeep Singh Jawa,2004.0,Mid,M,0000-0002-4482-4699,2017,160,24,5,39,"{'Thailand': 4, 'Netherlands': 5, 'United Kingdom': 3, 'Canada': 3, 'India': 5, 'Uganda': 2, 'United States': 11, 'Brazil': 2, 'Sweden': 1, 'Ireland': 1, 'Mongolia': 1, 'Kenya': 1, 'South Africa': 1, 'Vietnam': 2, 'Singapore': 1, 'Portugal': 1, 'Malawi': 1}",Treatment
+Salah Shafiq Al-Zaiti,2009.0,Mid,M,0000-0002-6862-0658,2023,0,2,0,4,{'United States': 4},Treatment
+Salah Shafiq Al-Zaiti,2009.0,Mid,M,0000-0002-6862-0658,2023,0,3,0,4,{'United States': 4},Treatment
+Salah Shafiq Al-Zaiti,2009.0,Mid,M,0000-0002-6862-0658,2023,0,1,1,5,{'United States': 5},Treatment
+Salah Shafiq Al-Zaiti,2009.0,Mid,M,0000-0002-6862-0658,2023,0,3,1,9,{'United States': 9},Treatment
+Salah Shafiq Al-Zaiti,2009.0,Mid,M,0000-0002-6862-0658,2023,0,4,3,7,{'United States': 7},Treatment
+Salah Shafiq Al-Zaiti,2009.0,Mid,M,0000-0002-6862-0658,2023,0,1,0,3,{'United States': 3},Treatment
+Salah Shafiq Al-Zaiti,2009.0,Mid,M,0000-0002-6862-0658,2023,6,2,4,7,{'United States': 9},Treatment
+Salah Shafiq Al-Zaiti,2009.0,Mid,M,0000-0002-6862-0658,2023,1,2,1,11,"{'United States': 15, 'Denmark': 2}",Treatment
+Salah Shafiq Al-Zaiti,2009.0,Mid,M,0000-0002-6862-0658,2023,4,5,0,9,{'United States': 9},Treatment
+Salah Shafiq Al-Zaiti,2009.0,Mid,M,0000-0002-6862-0658,2023,0,3,0,3,{},Treatment
+Salah Shafiq Al-Zaiti,2009.0,Mid,M,0000-0002-6862-0658,2023,5,0,0,2,"{'United States': 1, 'United Kingdom': 1}",Treatment
+Salah Shafiq Al-Zaiti,2009.0,Mid,M,0000-0002-6862-0658,2023,0,0,0,3,{'United States': 3},Treatment
+Salah Shafiq Al-Zaiti,2009.0,Mid,M,0000-0002-6862-0658,2023,128,8,3,19,"{'United States': 24, 'Jordan': 1, 'Netherlands': 1, 'Canada': 2}",Treatment
+Salah Shafiq Al-Zaiti,2009.0,Mid,M,0000-0002-6862-0658,2023,4,3,2,8,{'United States': 12},Treatment
+Salah Shafiq Al-Zaiti,2009.0,Mid,M,0000-0002-6862-0658,2023,0,3,1,6,{},Treatment
+Salah Shafiq Al-Zaiti,2009.0,Mid,M,0000-0002-6862-0658,2023,0,7,1,10,{'United States': 10},Treatment
+Salah Shafiq Al-Zaiti,2009.0,Mid,M,0000-0002-6862-0658,2023,0,3,2,5,{'United States': 5},Treatment
+Salah Shafiq Al-Zaiti,2009.0,Mid,M,0000-0002-6862-0658,2023,0,4,1,6,{'United States': 6},Treatment
+Salah Shafiq Al-Zaiti,2009.0,Mid,M,0000-0002-6862-0658,2023,0,6,1,8,"{'United States': 6, 'Netherlands': 1, 'Canada': 1}",Treatment
+Salah Shafiq Al-Zaiti,2009.0,Mid,M,0000-0002-6862-0658,2023,0,5,1,7,"{'United States': 5, 'Netherlands': 1, 'Canada': 1}",Treatment
+Eduardo Mireles-Cabodevila,2005.0,Mid,M,0000-0002-7822-8529,2023,0,4,2,6,{'United States': 6},Treatment
+Eduardo Mireles-Cabodevila,2005.0,Mid,M,0000-0002-7822-8529,2023,0,7,2,11,{'United States': 13},Treatment
+Eduardo Mireles-Cabodevila,2005.0,Mid,M,0000-0002-7822-8529,2023,0,4,0,4,{},Treatment
+Eduardo Mireles-Cabodevila,2005.0,Mid,M,0000-0002-7822-8529,2023,1,1,7,8,{},Treatment
+Eduardo Mireles-Cabodevila,2005.0,Mid,M,0000-0002-7822-8529,2023,0,1,2,3,{},Treatment
+Eduardo Mireles-Cabodevila,2005.0,Mid,M,0000-0002-7822-8529,2023,26,3,1,9,{'United States': 9},Treatment
+Eduardo Mireles-Cabodevila,2005.0,Mid,M,0000-0002-7822-8529,2023,0,3,0,6,{'United States': 6},Treatment
+Eduardo Mireles-Cabodevila,2005.0,Mid,M,0000-0002-7822-8529,2023,2,3,0,4,{'United States': 4},Treatment
+Eduardo Mireles-Cabodevila,2005.0,Mid,M,0000-0002-7822-8529,2023,0,3,0,3,{'United States': 3},Treatment
+Eduardo Mireles-Cabodevila,2005.0,Mid,M,0000-0002-7822-8529,2023,0,3,0,3,{'United States': 3},Treatment
+Eduardo Mireles-Cabodevila,2005.0,Mid,M,0000-0002-7822-8529,2023,0,12,0,12,{'United States': 12},Treatment
+Eduardo Mireles-Cabodevila,2005.0,Mid,M,0000-0002-7822-8529,2023,1,6,5,16,{'United States': 21},Treatment
+Eduardo Mireles-Cabodevila,2005.0,Mid,M,0000-0002-7822-8529,2023,3,4,2,7,{'United States': 7},Treatment
+Eduardo Mireles-Cabodevila,2005.0,Mid,M,0000-0002-7822-8529,2023,0,2,1,3,{'United States': 3},Treatment
+Eduardo Mireles-Cabodevila,2005.0,Mid,M,0000-0002-7822-8529,2017,1,2,0,3,{'United States': 3},Treatment
+Eduardo Mireles-Cabodevila,2005.0,Mid,M,0000-0002-7822-8529,2017,3,1,0,2,{'United States': 2},Treatment
+Eduardo Mireles-Cabodevila,2005.0,Mid,M,0000-0002-7822-8529,2017,6,2,0,6,{'United States': 1},Treatment
+Eduardo Mireles-Cabodevila,2005.0,Mid,M,0000-0002-7822-8529,2017,10,6,0,9,{'United States': 9},Treatment
+Eduardo Mireles-Cabodevila,2005.0,Mid,M,0000-0002-7822-8529,2017,68,1,0,2,{'United States': 2},Treatment
+Eduardo Mireles-Cabodevila,2005.0,Mid,M,0000-0002-7822-8529,2017,5,2,0,2,{'United States': 2},Treatment
+Andre L Holder,2013.0,Early,M,0000-0003-2635-3923,2023,0,4,0,4,{},Treatment
+Andre L Holder,2013.0,Early,M,0000-0003-2635-3923,2023,5,3,0,4,{'United States': 6},Treatment
+Andre L Holder,2013.0,Early,M,0000-0003-2635-3923,2023,0,1,0,2,{},Treatment
+Andre L Holder,2013.0,Early,M,0000-0003-2635-3923,2023,0,3,3,9,{'United States': 19},Treatment
+Andre L Holder,2013.0,Early,M,0000-0003-2635-3923,2023,0,3,2,6,{},Treatment
+Andre L Holder,2013.0,Early,M,0000-0003-2635-3923,2023,0,2,0,2,{'United States': 2},Treatment
+Andre L Holder,2013.0,Early,M,0000-0003-2635-3923,2023,0,11,0,11,{'United States': 11},Treatment
+Andre L Holder,2013.0,Early,M,0000-0003-2635-3923,2023,0,12,0,12,{'United States': 12},Treatment
+Andre L Holder,2013.0,Early,M,0000-0003-2635-3923,2023,2,1,0,2,{'United States': 2},Treatment
+Andre L Holder,2013.0,Early,M,0000-0003-2635-3923,2023,6,3,0,15,{'United States': 20},Treatment
+Andre L Holder,2013.0,Early,M,0000-0003-2635-3923,2017,0,2,4,6,{'United States': 6},Treatment
+Andre L Holder,2013.0,Early,M,0000-0003-2635-3923,2017,13,2,2,9,{'United States': 11},Treatment
+Andre L Holder,2013.0,Early,M,0000-0003-2635-3923,2017,131,3,1,7,{'United States': 8},Treatment
+Marie-Laure Charpignon,2019.0,Early,F,0000-0002-5786-2627,2023,0,0,2,9,{'United States': 9},Treatment
+Marie-Laure Charpignon,2019.0,Early,F,0000-0002-5786-2627,2023,1,3,1,5,{'United States': 8},Treatment
+Marie-Laure Charpignon,2019.0,Early,F,0000-0002-5786-2627,2023,10,4,3,7,{'United States': 8},Treatment
+Marie-Laure Charpignon,2019.0,Early,F,0000-0002-5786-2627,2023,0,4,1,6,{},Treatment
+Marie-Laure Charpignon,2019.0,Early,F,0000-0002-5786-2627,2023,7,10,8,19,"{'Jordan': 4, 'United Kingdom': 1, 'United States': 10, 'Sudan': 2, 'Germany': 1, 'Malawi': 1, 'Thailand': 1, 'New Zealand': 1}",Treatment
+Marie-Laure Charpignon,2019.0,Early,F,0000-0002-5786-2627,2023,9,6,5,13,"{'United States': 13, 'France': 1, 'United Kingdom': 1, 'Uganda': 1, 'Canada': 2}",Treatment
+Marie-Laure Charpignon,2019.0,Early,F,0000-0002-5786-2627,2023,0,5,4,13,"{'United States': 12, 'Portugal': 4, 'Switzerland': 2, 'United Kingdom': 2, 'Brazil': 2, 'China': 1}",Treatment
+Marie-Laure Charpignon,2019.0,Early,F,0000-0002-5786-2627,2023,4,2,3,6,"{'Israel': 1, 'United States': 6, 'United Kingdom': 1}",Treatment
+Marie-Laure Charpignon,2019.0,Early,F,0000-0002-5786-2627,2023,1,5,2,8,{'United States': 8},Treatment
+Marie-Laure Charpignon,2019.0,Early,F,0000-0002-5786-2627,2023,22,0,6,14,{'United States': 15},Treatment
+Marie-Laure Charpignon,2019.0,Early,F,0000-0002-5786-2627,2023,7,3,1,6,"{'Portugal': 2, 'Switzerland': 1, 'United Kingdom': 1, 'United States': 2}",Treatment
+Marie-Laure Charpignon,2019.0,Early,F,0000-0002-5786-2627,2023,3,5,1,7,"{'United States': 6, 'Portugal': 1, 'Brazil': 1, 'United Kingdom': 1, 'Iran': 1, 'Italy': 1}",Treatment
+Marie-Laure Charpignon,2019.0,Early,F,0000-0002-5786-2627,2023,61,1,6,16,{'United States': 23},Treatment
+Marie-Laure Charpignon,2019.0,Early,F,0000-0002-5786-2627,2023,19,4,5,9,"{'France': 10, 'United States': 2}",Treatment
+Marie-Laure Charpignon,2019.0,Early,F,0000-0002-5786-2627,2023,26,5,5,14,"{'United States': 10, 'United Kingdom': 1, 'Malawi': 1, 'Philippines': 1, 'Thailand': 1, 'Uganda': 1, 'Jordan': 1}",Treatment
+Marie-Laure Charpignon,2019.0,Early,F,0000-0002-5786-2627,2023,2,0,1,4,{},Treatment
+Marie-Laure Charpignon,2019.0,Early,F,0000-0002-5786-2627,2023,6,0,3,9,"{'United States': 10, 'Australia': 1}",Treatment
+Andrew Julio Barros,2012.0,Early,M,0000-0002-3523-0514,2023,0,2,4,6,{'United States': 6},Treatment
+Andrew Julio Barros,2012.0,Early,M,0000-0002-3523-0514,2023,6,3,4,8,{'United States': 11},Treatment
+Andrew Julio Barros,2012.0,Early,M,0000-0002-3523-0514,2023,0,6,0,6,{},Treatment
+Andrew Julio Barros,2012.0,Early,M,0000-0002-3523-0514,2023,0,6,0,6,{},Treatment
+Andrew Julio Barros,2012.0,Early,M,0000-0002-3523-0514,2023,0,6,0,6,{},Treatment
+Andrew Julio Barros,2012.0,Early,M,0000-0002-3523-0514,2023,2,6,5,12,{'United States': 12},Treatment
+Andrew Julio Barros,2012.0,Early,M,0000-0002-3523-0514,2023,0,8,1,9,{'United States': 9},Treatment
+Andrew Julio Barros,2012.0,Early,M,0000-0002-3523-0514,2023,0,7,0,7,{'United States': 7},Treatment
+Andrew Julio Barros,2012.0,Early,M,0000-0002-3523-0514,2023,0,9,0,9,{'United States': 9},Treatment
+Andrew Julio Barros,2012.0,Early,M,0000-0002-3523-0514,2023,0,4,0,4,{'United States': 4},Treatment
+Andrew Julio Barros,2012.0,Early,M,0000-0002-3523-0514,2023,5,17,20,94,{'United States': 7},Treatment
+Andrew Julio Barros,2012.0,Early,M,0000-0002-3523-0514,2023,3,0,0,2,{'United States': 2},Treatment
+Andrew Julio Barros,2012.0,Early,M,0000-0002-3523-0514,2023,7,4,0,13,{'United States': 13},Treatment
+Anoop M Mayampurath,2004.0,Mid,M,0000-0002-3010-6960,2023,3,3,3,8,"{'Australia': 4, 'United States': 6}",Treatment
+Anoop M Mayampurath,2004.0,Mid,M,0000-0002-3010-6960,2023,5,4,0,10,{'United States': 13},Treatment
+Anoop M Mayampurath,2004.0,Mid,M,0000-0002-3010-6960,2023,2,3,1,8,{'United States': 11},Treatment
+Anoop M Mayampurath,2004.0,Mid,M,0000-0002-3010-6960,2023,0,5,2,7,{'United States': 6},Treatment
+Anoop M Mayampurath,2004.0,Mid,M,0000-0002-3010-6960,2023,0,6,2,9,{'United States': 9},Treatment
+Anoop M Mayampurath,2004.0,Mid,M,0000-0002-3010-6960,2023,16,7,4,25,{'United States': 26},Treatment
+Anoop M Mayampurath,2004.0,Mid,M,0000-0002-3010-6960,2023,2,1,2,7,{'United States': 9},Treatment
+Anoop M Mayampurath,2004.0,Mid,M,0000-0002-3010-6960,2023,6,7,8,18,{'United States': 20},Treatment
+Anoop M Mayampurath,2004.0,Mid,M,0000-0002-3010-6960,2023,12,6,0,8,{'United States': 8},Treatment
+Anoop M Mayampurath,2004.0,Mid,M,0000-0002-3010-6960,2023,0,7,0,7,{'United States': 7},Treatment
+Anoop M Mayampurath,2004.0,Mid,M,0000-0002-3010-6960,2023,0,6,0,6,{'United States': 6},Treatment
+Anoop M Mayampurath,2004.0,Mid,M,0000-0002-3010-6960,2017,1,9,1,15,{'United States': 15},Treatment
+Anoop M Mayampurath,2004.0,Mid,M,0000-0002-3010-6960,2017,0,2,3,6,{'United States': 6},Treatment
+Anoop M Mayampurath,2004.0,Mid,M,0000-0002-3010-6960,2017,48,9,1,16,{'United States': 16},Treatment
+Anoop M Mayampurath,2004.0,Mid,M,0000-0002-3010-6960,2017,0,1,1,6,{'United States': 6},Treatment
+Hyunjoon Lee,2020.0,Early,M,0000-0003-4694-7016,2023,73,10,10,48,"{'United States': 78, 'Australia': 11, 'Denmark': 14}",Treatment
+Hyunjoon Lee,2020.0,Early,M,0000-0003-4694-7016,2023,0,3,3,12,{'United States': 27},Treatment
+Hyunjoon Lee,2020.0,Early,M,0000-0003-4694-7016,2023,0,5,4,10,{'United States': 9},Treatment
+Hyunjoon Lee,2020.0,Early,M,0000-0003-4694-7016,2023,1,2,5,13,{'United States': 13},Treatment
+Hyunjoon Lee,2020.0,Early,M,0000-0003-4694-7016,2023,0,7,7,14,{'United States': 13},Treatment
+Hyunjoon Lee,2020.0,Early,M,0000-0003-4694-7016,2023,0,5,2,12,{'United States': 10},Treatment
+Hyunjoon Lee,2020.0,Early,M,0000-0003-4694-7016,2023,1,3,3,10,{'United States': 18},Treatment
+Hyunjoon Lee,2020.0,Early,M,0000-0003-4694-7016,2023,0,7,7,14,{'United States': 13},Treatment
+Hyunjoon Lee,2020.0,Early,M,0000-0003-4694-7016,2023,9,9,5,36,"{'United States': 47, 'Spain': 1, 'Nigeria': 1}",Treatment
+Hyunjoon Lee,2020.0,Early,M,0000-0003-4694-7016,2023,10,4,2,13,"{'United States': 25, 'Israel': 1}",Treatment
+Hyunjoon Lee,2020.0,Early,M,0000-0003-4694-7016,2023,0,3,1,8,{},Treatment
+Hyunjoon Lee,2020.0,Early,M,0000-0003-4694-7016,2023,17,10,10,48,"{'United States': 74, 'Australia': 11, 'Denmark': 11}",Treatment
+Hyunjoon Lee,2020.0,Early,M,0000-0003-4694-7016,2023,3,3,2,11,{'United States': 15},Treatment
+Melissa L Thompson Bastin,2014.0,Early,F,0000-0001-8047-5978,2023,4,2,4,13,{'United States': 15},Treatment
+Melissa L Thompson Bastin,2014.0,Early,F,0000-0001-8047-5978,2023,4,2,5,13,{'United States': 15},Treatment
+Melissa L Thompson Bastin,2014.0,Early,F,0000-0001-8047-5978,2017,6,0,0,5,{'United States': 7},Treatment
+Melissa L Thompson Bastin,2014.0,Early,F,0000-0001-8047-5978,2017,8,0,0,4,{'United States': 4},Treatment
+Melissa L Thompson Bastin,2014.0,Early,F,0000-0001-8047-5978,2017,17,0,0,5,{'United States': 7},Treatment
+Melissa L Thompson Bastin,2014.0,Early,F,0000-0001-8047-5978,2017,28,1,1,5,{'United States': 8},Treatment
+Melissa L Thompson Bastin,2014.0,Early,F,0000-0001-8047-5978,2017,28,0,0,3,{'United States': 6},Treatment
+Suzana Margareth Ajeje Lobo,2001.0,Senior,F,0000-0003-2726-2441,2023,0,2,2,28,{'Brazil': 29},Treatment
+Suzana Margareth Ajeje Lobo,2001.0,Senior,F,0000-0003-2726-2441,2023,1,3,1,25,{'Brazil': 25},Treatment
+Suzana Margareth Ajeje Lobo,2001.0,Senior,F,0000-0003-2726-2441,2023,0,10,0,13,{},Treatment
+Suzana Margareth Ajeje Lobo,2001.0,Senior,F,0000-0003-2726-2441,2023,2,0,0,8,{'Brazil': 9},Treatment
+Suzana Margareth Ajeje Lobo,2001.0,Senior,F,0000-0003-2726-2441,2023,0,0,0,3,{'Brazil': 3},Treatment
+Suzana Margareth Ajeje Lobo,2001.0,Senior,F,0000-0003-2726-2441,2023,0,17,0,18,{},Treatment
+Suzana Margareth Ajeje Lobo,2001.0,Senior,F,0000-0003-2726-2441,2023,0,17,1,18,"{'United States': 1, 'France': 16, 'Brazil': 1}",Treatment
+Suzana Margareth Ajeje Lobo,2001.0,Senior,F,0000-0003-2726-2441,2023,1,26,3,32,"{'Germany': 12, 'Netherlands': 11, 'France': 2, 'Peru': 1, 'Brazil': 3, 'Mexico': 1, 'Russia': 1, 'South Africa': 1, 'United States': 1}",Treatment
+Suzana Margareth Ajeje Lobo,2001.0,Senior,F,0000-0003-2726-2441,2017,0,1,0,4,{'Brazil': 4},Treatment
+Suzana Margareth Ajeje Lobo,2001.0,Senior,F,0000-0003-2726-2441,2017,0,0,0,8,{'Brazil': 8},Treatment
+Suzana Margareth Ajeje Lobo,2001.0,Senior,F,0000-0003-2726-2441,2017,0,0,0,6,{'Brazil': 6},Treatment
+Suzana Margareth Ajeje Lobo,2001.0,Senior,F,0000-0003-2726-2441,2017,0,0,1,8,{'Brazil': 9},Treatment
+Suzana Margareth Ajeje Lobo,2001.0,Senior,F,0000-0003-2726-2441,2017,0,0,1,5,{},Treatment
+Suzana Margareth Ajeje Lobo,2001.0,Senior,F,0000-0003-2726-2441,2017,53,3,0,13,"{'Brazil': 22, 'United States': 2}",Treatment
+Suzana Margareth Ajeje Lobo,2001.0,Senior,F,0000-0003-2726-2441,2017,30,5,1,12,"{'United Kingdom': 5, 'Germany': 2, 'United States': 1, 'Canada': 1, 'Australia': 2, 'Spain': 1, 'Norway': 1, 'Brazil': 1, 'Netherlands': 1, 'Thailand': 1}",Treatment
+Suzana Margareth Ajeje Lobo,2001.0,Senior,F,0000-0003-2726-2441,2017,107,6,1,10,"{'Brazil': 3, 'Switzerland': 4, 'Spain': 4, 'India': 2, 'Germany': 4, 'Ireland': 2, 'Belgium': 2}",Treatment
+Mohammed J Al-Jaghbeer,2012.0,Early,M,0009-0001-4832-2960,2023,0,1,0,4,{'United States': 4},Treatment
+Mohammed J Al-Jaghbeer,2012.0,Early,M,0009-0001-4832-2960,2023,0,10,6,19,"{'United States': 19, 'Italy': 1}",Treatment
+Mohammed J Al-Jaghbeer,2012.0,Early,M,0009-0001-4832-2960,2023,2,5,1,8,{'Jordan': 9},Treatment
+Mohammed J Al-Jaghbeer,2012.0,Early,M,0009-0001-4832-2960,2023,1,1,2,5,{'United States': 2},Treatment
+Mohammed J Al-Jaghbeer,2012.0,Early,M,0009-0001-4832-2960,2023,0,6,2,10,{},Treatment
+Mohammed J Al-Jaghbeer,2012.0,Early,M,0009-0001-4832-2960,2023,0,6,3,9,{},Treatment
+Mohammed J Al-Jaghbeer,2012.0,Early,M,0009-0001-4832-2960,2023,1,3,1,6,{'United States': 6},Treatment
+Mohammed J Al-Jaghbeer,2012.0,Early,M,0009-0001-4832-2960,2023,8,9,2,14,"{'Jordan': 14, 'United States': 1}",Treatment
+Mohammed J Al-Jaghbeer,2012.0,Early,M,0009-0001-4832-2960,2023,0,8,0,11,{'United States': 11},Treatment
+Mohammed J Al-Jaghbeer,2012.0,Early,M,0009-0001-4832-2960,2023,1,1,0,3,{'United States': 4},Treatment
+Mohammed J Al-Jaghbeer,2012.0,Early,M,0009-0001-4832-2960,2023,0,8,1,9,{'United States': 9},Treatment
+Mohammed J Al-Jaghbeer,2012.0,Early,M,0009-0001-4832-2960,2017,1,2,0,3,{'United States': 3},Treatment
+Po-Chih Kuo,2013.0,Early,M,0000-0003-4020-3147,2023,1,4,2,8,{'Taiwan': 9},Treatment
+Po-Chih Kuo,2013.0,Early,M,0000-0003-4020-3147,2023,2,7,8,23,"{'Panama': 7, 'Taiwan': 5, 'United States': 21, 'Tanzania': 1, 'United Kingdom': 1}",Treatment
+Po-Chih Kuo,2013.0,Early,M,0000-0003-4020-3147,2023,2,3,1,4,{'Taiwan': 4},Treatment
+Po-Chih Kuo,2013.0,Early,M,0000-0003-4020-3147,2023,4,5,6,14,"{'Taiwan': 3, 'United States': 15}",Treatment
+Po-Chih Kuo,2013.0,Early,M,0000-0003-4020-3147,2023,3,5,3,12,{'Taiwan': 15},Treatment
+Po-Chih Kuo,2013.0,Early,M,0000-0003-4020-3147,2023,0,8,3,13,{},Treatment
+Po-Chih Kuo,2013.0,Early,M,0000-0003-4020-3147,2023,16,3,1,10,"{'Taiwan': 13, 'United States': 1}",Treatment
+Po-Chih Kuo,2013.0,Early,M,0000-0003-4020-3147,2023,20,3,2,7,{'Taiwan': 15},Treatment
+Po-Chih Kuo,2013.0,Early,M,0000-0003-4020-3147,2017,0,2,0,3,{'Taiwan': 3},Treatment
+Po-Chih Kuo,2013.0,Early,M,0000-0003-4020-3147,2017,11,4,2,8,{'Taiwan': 12},Treatment
+Po-Chih Kuo,2013.0,Early,M,0000-0003-4020-3147,2017,26,5,1,8,{'Taiwan': 10},Treatment
+Omar Badawi,2004.0,Mid,M,0000-0001-8518-9006,2023,0,3,1,4,"{'United States': 2, 'Netherlands': 2}",Treatment
+Omar Badawi,2004.0,Mid,M,0000-0001-8518-9006,2023,5,4,3,8,{'United States': 8},Treatment
+Omar Badawi,2004.0,Mid,M,0000-0001-8518-9006,2023,13,4,5,9,"{'United States': 10, 'Jordan': 3}",Treatment
+Omar Badawi,2004.0,Mid,M,0000-0001-8518-9006,2023,1,3,0,8,"{'United States': 10, 'Canada': 1}",Treatment
+Omar Badawi,2004.0,Mid,M,0000-0001-8518-9006,2023,1,3,1,7,{'United States': 11},Treatment
+Omar Badawi,2004.0,Mid,M,0000-0001-8518-9006,2017,88,3,0,5,{'United States': 6},Treatment
+Omar Badawi,2004.0,Mid,M,0000-0001-8518-9006,2017,0,4,1,5,{'United States': 10},Treatment
+Omar Badawi,2004.0,Mid,M,0000-0001-8518-9006,2017,29,4,1,5,{'United States': 5},Treatment
+Jamie Lynn Sturgill,2004.0,Mid,M,0000-0001-8856-3227,2023,0,0,1,2,{'United States': 2},Treatment
+Jamie Lynn Sturgill,2004.0,Mid,M,0000-0001-8856-3227,2023,2,6,3,21,{'United States': 21},Treatment
+Jamie Lynn Sturgill,2004.0,Mid,M,0000-0001-8856-3227,2023,18,1,2,9,{'United States': 17},Treatment
+Jamie Lynn Sturgill,2004.0,Mid,M,0000-0001-8856-3227,2023,1,3,1,4,{'United States': 4},Treatment
+Jamie Lynn Sturgill,2004.0,Mid,M,0000-0001-8856-3227,2023,3,0,0,5,{'United States': 5},Treatment
+Jamie Lynn Sturgill,2004.0,Mid,M,0000-0001-8856-3227,2017,10,2,3,8,{},Treatment
+Jamie Lynn Sturgill,2004.0,Mid,M,0000-0001-8856-3227,2017,7,4,2,7,{'United States': 11},Treatment
+Jamie Lynn Sturgill,2004.0,Mid,M,0000-0001-8856-3227,2017,48,3,2,9,"{'United States': 17, 'Japan': 1}",Treatment
+Jamie Lynn Sturgill,2004.0,Mid,M,0000-0001-8856-3227,2017,0,4,1,7,{},Treatment
+Chenyue Lu,2018.0,Early,F,0000-0002-7905-2078,2023,0,2,4,16,{'United States': 31},Treatment
+Chenyue Lu,2018.0,Early,F,0000-0002-7905-2078,2023,5,3,2,11,{'United States': 13},Treatment
+Chenyue Lu,2018.0,Early,F,0000-0002-7905-2078,2023,19,7,4,20,{'United States': 23},Treatment
+Chenyue Lu,2018.0,Early,F,0000-0002-7905-2078,2023,0,5,1,13,{'United States': 13},Treatment
+Chenyue Lu,2018.0,Early,F,0000-0002-7905-2078,2023,43,7,11,25,{'United States': 45},Treatment
+Chenyue Lu,2018.0,Early,F,0000-0002-7905-2078,2023,0,7,11,25,{'United States': 51},Treatment
+Christopher Loren Jenks,2011.0,Mid,M,0000-0002-4557-0002,2017,94,0,1,3,{'United States': 5},Treatment
+Christopher Loren Jenks,2011.0,Mid,M,0000-0002-4557-0002,2017,34,2,1,5,{'United States': 5},Treatment
+Christopher Loren Jenks,2011.0,Mid,M,0000-0002-4557-0002,2017,12,2,3,9,{'United States': 10},Treatment
+Christopher Loren Jenks,2011.0,Mid,M,0000-0002-4557-0002,2017,24,1,2,4,{'United States': 7},Treatment
+Christopher Loren Jenks,2011.0,Mid,M,0000-0002-4557-0002,2017,15,3,2,5,{'United States': 5},Treatment
+Keiko Kunitoki,2012.0,Early,F,0000-0002-7641-5427,2023,17,3,2,18,"{'United States': 38, 'Netherlands': 6}",Treatment
+Keiko Kunitoki,2012.0,Early,F,0000-0002-7641-5427,2023,14,3,5,18,{'United States': 18},Treatment
+Keiko Kunitoki,2012.0,Early,F,0000-0002-7641-5427,2023,7,2,2,10,{'United States': 19},Treatment
+Keiko Kunitoki,2012.0,Early,F,0000-0002-7641-5427,2017,8,3,3,6,{'Japan': 6},Treatment
+Keiko Kunitoki,2012.0,Early,F,0000-0002-7641-5427,2017,13,11,8,20,{'Japan': 28},Treatment
+An-Kwok Ian Wong,2020.0,Early,U,0000-0001-5668-4251,2023,0,5,2,8,{'United States': 6},Treatment
+An-Kwok Ian Wong,2020.0,Early,U,0000-0001-5668-4251,2023,0,1,0,2,{'United States': 7},Treatment
+An-Kwok Ian Wong,2020.0,Early,U,0000-0001-5668-4251,2023,9,6,5,13,"{'United States': 13, 'France': 1, 'United Kingdom': 1, 'Uganda': 1, 'Canada': 2}",Treatment
+An-Kwok Ian Wong,2020.0,Early,U,0000-0001-5668-4251,2023,0,5,4,13,"{'United States': 12, 'Portugal': 4, 'Switzerland': 2, 'United Kingdom': 2, 'Brazil': 2, 'China': 1}",Treatment
+An-Kwok Ian Wong,2020.0,Early,U,0000-0001-5668-4251,2023,5,0,2,4,{'United States': 5},Treatment
+An-Kwok Ian Wong,2020.0,Early,U,0000-0001-5668-4251,2023,26,5,5,14,"{'United States': 10, 'United Kingdom': 1, 'Malawi': 1, 'Philippines': 1, 'Thailand': 1, 'Uganda': 1, 'Jordan': 1}",Treatment
+Joel Park,2015.0,Early,M,0000-0002-2053-9180,2017,55,7,3,10,"{'United States': 10, 'China': 6}",Treatment
+Joel Park,2015.0,Early,M,0000-0002-2053-9180,2017,72,4,3,8,"{'United States': 16, 'Japan': 1}",Treatment
+Joel Park,2015.0,Early,M,0000-0002-2053-9180,2017,14,3,0,3,{'United States': 6},Treatment
+Joel Park,2015.0,Early,M,0000-0002-2053-9180,2017,14,5,5,10,"{'China': 6, 'United States': 10}",Treatment
+Joel Park,2015.0,Early,M,0000-0002-2053-9180,2017,42,7,8,15,"{'China': 12, 'United States': 8}",Treatment
+Emily J Owen,2015.0,Early,F,0000-0002-6095-4805,2023,1,3,1,8,{'United States': 9},Treatment
+Emily J Owen,2015.0,Early,F,0000-0002-6095-4805,2023,0,0,0,1,{},Treatment
+Emily J Owen,2015.0,Early,F,0000-0002-6095-4805,2023,0,1,6,11,{'United States': 11},Treatment
+Emily J Owen,2015.0,Early,F,0000-0002-6095-4805,2023,4,1,2,7,{'United States': 7},Treatment
+Emily J Owen,2015.0,Early,F,0000-0002-6095-4805,2023,4,3,1,5,{'United States': 6},Treatment
+Emily J Owen,2015.0,Early,F,0000-0002-6095-4805,2023,0,0,0,2,{'United States': 2},Treatment
+Emily J Owen,2015.0,Early,F,0000-0002-6095-4805,2017,14,0,0,3,{'United States': 3},Treatment
+Sumit Kapoor,2012.0,Early,M,0000-0002-5683-3445,2023,6,3,1,4,{'United States': 7},Treatment
+Sumit Kapoor,2012.0,Early,M,0000-0002-5683-3445,2017,14,3,1,4,{'United States': 4},Treatment
+Sumit Kapoor,2012.0,Early,M,0000-0002-5683-3445,2017,26,6,3,10,{'United States': 50},Treatment
+Sumit Kapoor,2012.0,Early,M,0000-0002-5683-3445,2017,5,3,1,4,{'United States': 4},Treatment
+Lucas Bulgarelli,2018.0,Early,M,0000-0001-5456-2170,2023,0,2,1,4,{'United States': 4},Treatment
+Lucas Bulgarelli,2018.0,Early,M,0000-0001-5456-2170,2023,38,7,1,13,"{'United States': 14, 'Canada': 1}",Treatment
+Lucas Bulgarelli,2018.0,Early,M,0000-0001-5456-2170,2023,40,6,1,12,"{'United States': 13, 'Canada': 1}",Treatment
+Lucas Bulgarelli,2018.0,Early,M,0000-0001-5456-2170,2023,1032,7,1,13,"{'United States': 14, 'Canada': 1}",Treatment
+Orkun Baloglu,2006.0,Mid,M,0000-0001-5629-7788,2023,0,2,0,6,{'United States': 7},Treatment
+Orkun Baloglu,2006.0,Mid,M,0000-0001-5629-7788,2023,16,7,4,25,{'United States': 26},Treatment
+Orkun Baloglu,2006.0,Mid,M,0000-0001-5629-7788,2023,4,4,1,6,{'United States': 7},Treatment
+Orkun Baloglu,2006.0,Mid,M,0000-0001-5629-7788,2023,2,2,3,11,{'United States': 28},Treatment
+Orkun Baloglu,2006.0,Mid,M,0000-0001-5629-7788,2023,0,2,2,6,{'United States': 6},Treatment
+Orkun Baloglu,2006.0,Mid,M,0000-0001-5629-7788,2023,26,6,1,11,{'United States': 16},Treatment
+Anirban Bhattacharyya,2010.0,Mid,M,0000-0002-1646-709X,2023,0,5,0,8,"{'United States': 8, 'Canada': 1}",Treatment
+Anirban Bhattacharyya,2010.0,Mid,M,0000-0002-1646-709X,2023,0,8,6,25,{'United States': 25},Treatment
+Anirban Bhattacharyya,2010.0,Mid,M,0000-0002-1646-709X,2023,0,6,1,8,{'United States': 8},Treatment
+Anirban Bhattacharyya,2010.0,Mid,M,0000-0002-1646-709X,2023,0,8,8,19,{'United States': 17},Treatment
+Anirban Bhattacharyya,2010.0,Mid,M,0000-0002-1646-709X,2023,0,9,7,20,{'United States': 19},Treatment
+Anirban Bhattacharyya,2010.0,Mid,M,0000-0002-1646-709X,2023,1,4,0,6,{'United States': 6},Treatment
+Anirban Bhattacharyya,2010.0,Mid,M,0000-0002-1646-709X,2023,0,9,4,20,{'United States': 18},Treatment
+Anirban Bhattacharyya,2010.0,Mid,M,0000-0002-1646-709X,2023,0,9,6,20,{'United States': 18},Treatment
+Anirban Bhattacharyya,2010.0,Mid,M,0000-0002-1646-709X,2023,0,9,7,18,{'United States': 18},Treatment
+Anirban Bhattacharyya,2010.0,Mid,M,0000-0002-1646-709X,2023,0,9,5,31,{'United States': 31},Treatment
+Anirban Bhattacharyya,2010.0,Mid,M,0000-0002-1646-709X,2023,2,9,3,18,{'United States': 18},Treatment
+Anirban Bhattacharyya,2010.0,Mid,M,0000-0002-1646-709X,2023,3,5,0,8,"{'United States': 7, 'Canada': 1}",Treatment
+Anirban Bhattacharyya,2010.0,Mid,M,0000-0002-1646-709X,2023,0,7,4,15,{},Treatment
+Anirban Bhattacharyya,2010.0,Mid,M,0000-0002-1646-709X,2023,0,14,4,24,{},Treatment
+Anirban Bhattacharyya,2010.0,Mid,M,0000-0002-1646-709X,2023,0,11,6,24,{},Treatment
+Anirban Bhattacharyya,2010.0,Mid,M,0000-0002-1646-709X,2023,0,11,6,24,{},Treatment
+Anirban Bhattacharyya,2010.0,Mid,M,0000-0002-1646-709X,2023,0,8,1,11,{},Treatment
+Anirban Bhattacharyya,2010.0,Mid,M,0000-0002-1646-709X,2023,0,14,4,24,{},Treatment
+Anirban Bhattacharyya,2010.0,Mid,M,0000-0002-1646-709X,2023,0,6,0,8,{},Treatment
+Anirban Bhattacharyya,2010.0,Mid,M,0000-0002-1646-709X,2023,0,14,4,24,{},Treatment
+Marilyn E Schallom,2002.0,Mid,F,0000-0002-8418-5123,2023,0,0,6,6,{'United States': 4},Treatment
+Marilyn E Schallom,2002.0,Mid,F,0000-0002-8418-5123,2023,2,0,6,6,{'United States': 6},Treatment
+Marilyn E Schallom,2002.0,Mid,F,0000-0002-8418-5123,2017,14,1,3,7,{'United States': 7},Treatment
+Marilyn E Schallom,2002.0,Mid,F,0000-0002-8418-5123,2017,14,0,2,2,{'United States': 4},Treatment
+Marilyn E Schallom,2002.0,Mid,F,0000-0002-8418-5123,2017,6,0,1,4,{'United States': 4},Treatment
+Susan F Mclean,2002.0,Mid,F,0000-0002-9659-1727,2023,2,5,3,19,{'United States': 19},Treatment
+Susan F Mclean,2002.0,Mid,F,0000-0002-9659-1727,2017,26,2,0,4,{'United States': 4},Treatment
+Susan F Mclean,2002.0,Mid,F,0000-0002-9659-1727,2017,8,2,1,5,{'United States': 5},Treatment
+Heather Mattie,2018.0,Early,F,0000-0002-1263-2537,2023,2,1,1,3,{'United States': 3},Treatment
+Heather Mattie,2018.0,Early,F,0000-0002-1263-2537,2023,6,2,3,12,"{'United States': 23, 'Sweden': 1, 'Netherlands': 2, 'Argentina': 2, 'Italy': 1}",Treatment
+Heather Mattie,2018.0,Early,F,0000-0002-1263-2537,2023,4,0,3,5,{'United States': 5},Treatment
+Omar K Danner,1998.0,Senior,M,0000-0002-5382-712X,2023,1,0,0,2,{'United States': 3},Treatment
+Omar K Danner,1998.0,Senior,M,0000-0002-5382-712X,2023,0,3,2,7,{'United States': 7},Treatment
+Omar K Danner,1998.0,Senior,M,0000-0002-5382-712X,2017,1,5,1,9,{},Treatment
+Omar K Danner,1998.0,Senior,M,0000-0002-5382-712X,2017,0,7,2,11,{},Treatment
+Omar K Danner,1998.0,Senior,M,0000-0002-5382-712X,2017,0,5,3,9,{},Treatment
+Omar K Danner,1998.0,Senior,M,0000-0002-5382-712X,2017,6,4,0,7,{'United States': 7},Treatment
+Omar K Danner,1998.0,Senior,M,0000-0002-5382-712X,2017,0,7,2,13,{},Treatment
+Omar K Danner,1998.0,Senior,M,0000-0002-5382-712X,2017,0,7,3,12,{},Treatment
+Omar K Danner,1998.0,Senior,M,0000-0002-5382-712X,2017,0,3,2,11,{},Treatment
+Omar K Danner,1998.0,Senior,M,0000-0002-5382-712X,2017,15,1,3,5,{'United States': 5},Treatment
+Adel M Bassily-Marcus,2004.0,Mid,M,0000-0003-1131-8885,2023,8,3,3,8,{'United States': 8},Treatment
+Adel M Bassily-Marcus,2004.0,Mid,M,0000-0003-1131-8885,2023,10,142,247,513,"{'United States': 95, 'United Kingdom': 6, 'Brazil': 3, 'Denmark': 6}",Treatment
+Adel M Bassily-Marcus,2004.0,Mid,M,0000-0003-1131-8885,2017,0,5,1,6,{'United States': 6},Treatment
+Adel M Bassily-Marcus,2004.0,Mid,M,0000-0003-1131-8885,2017,0,4,2,6,{'United States': 6},Treatment
+Adel M Bassily-Marcus,2004.0,Mid,M,0000-0003-1131-8885,2017,2,4,3,7,{'United States': 7},Treatment
+Adel M Bassily-Marcus,2004.0,Mid,M,0000-0003-1131-8885,2017,26,6,3,10,{'United States': 50},Treatment
+Mary E Lough,1985.0,Senior,F,0000-0003-1155-1556,2023,0,2,2,5,{'United States': 6},Treatment
+Mary E Lough,1985.0,Senior,F,0000-0003-1155-1556,2023,0,2,2,5,{'United States': 2},Treatment
+Mary E Lough,1985.0,Senior,F,0000-0003-1155-1556,2023,26,5,5,14,"{'United States': 10, 'United Kingdom': 1, 'Malawi': 1, 'Philippines': 1, 'Thailand': 1, 'Uganda': 1, 'Jordan': 1}",Treatment
+Mary E Lough,1985.0,Senior,F,0000-0003-1155-1556,2017,1,0,0,1,{'United States': 1},Treatment
+Anis Davoudi,2016.0,Early,M,0000-0002-3383-9481,2023,0,3,4,7,{'United States': 7},Treatment
+Anis Davoudi,2016.0,Early,M,0000-0002-3383-9481,2023,0,2,4,6,{'United States': 6},Treatment
+Anis Davoudi,2016.0,Early,M,0000-0002-3383-9481,2023,0,5,2,7,{'United States': 7},Treatment
+Anis Davoudi,2016.0,Early,M,0000-0002-3383-9481,2023,0,2,4,6,{'United States': 6},Treatment
+Anis Davoudi,2016.0,Early,M,0000-0002-3383-9481,2023,8,1,1,2,{'United States': 2},Treatment
+Anis Davoudi,2016.0,Early,M,0000-0002-3383-9481,2023,15,2,3,7,{'United States': 8},Treatment
+Anis Davoudi,2016.0,Early,M,0000-0002-3383-9481,2017,0,2,2,7,{},Treatment
+Anis Davoudi,2016.0,Early,M,0000-0002-3383-9481,2017,58,2,2,6,{'United States': 6},Treatment
+Anis Davoudi,2016.0,Early,M,0000-0002-3383-9481,2017,5,5,1,7,{'United States': 7},Treatment
+Donna Lee Armaignac,2014.0,Early,F,0000-0002-0129-6638,2023,0,7,10,24,{},Treatment
+Donna Lee Armaignac,2014.0,Early,F,0000-0002-0129-6638,2023,4,7,7,20,"{'United States': 22, 'Russia': 1, 'India': 1, 'Germany': 1}",Treatment
+Donna Lee Armaignac,2014.0,Early,F,0000-0002-0129-6638,2023,0,19,1,21,"{'United States': 19, 'Serbia': 1}",Treatment
+Donna Lee Armaignac,2014.0,Early,F,0000-0002-0129-6638,2023,1,3,1,7,{'United States': 11},Treatment
+Piyush Mathur,2011.0,Mid,M,0000-0003-3777-8767,2023,9,7,1,8,{},Treatment
+Piyush Mathur,2011.0,Mid,M,0000-0003-3777-8767,2023,0,3,5,8,{'United States': 8},Treatment
+Piyush Mathur,2011.0,Mid,M,0000-0003-3777-8767,2023,1,3,3,6,"{'United States': 5, 'Canada': 1}",Treatment
+Piyush Mathur,2011.0,Mid,M,0000-0003-3777-8767,2023,3,4,2,11,{'United States': 11},Treatment
+Piyush Mathur,2011.0,Mid,M,0000-0003-3777-8767,2023,7,3,1,7,"{'India': 2, 'United States': 5}",Treatment
+Piyush Mathur,2011.0,Mid,M,0000-0003-3777-8767,2023,27,3,0,5,{'United States': 3},Treatment
+Charles R Watts,1998.0,Senior,M,0000-0002-5011-487X,2017,23,3,0,4,{'United States': 6},Treatment
+Charles R Watts,1998.0,Senior,M,0000-0002-5011-487X,2017,0,3,0,4,{'United States': 6},Treatment
+Charles R Watts,1998.0,Senior,M,0000-0002-5011-487X,2017,21,1,0,4,{'United States': 6},Treatment
+Travis W Murphy,2010.0,Mid,M,0000-0001-8985-7518,2023,1,1,0,2,{'United States': 2},Treatment
+Travis W Murphy,2010.0,Mid,M,0000-0001-8985-7518,2017,5,0,0,8,{'United States': 8},Treatment
+J Steven Hata,1988.0,Senior,M,0000-0003-1209-8853,2017,50,1,0,4,{'United States': 4},Treatment
+Enrique Monares-Zepeda,2015.0,Early,M,0000-0003-1407-1478,2023,0,3,1,4,"{'Mexico': 4, 'Russia': 1}",Treatment
+Enrique Monares-Zepeda,2015.0,Early,M,0000-0003-1407-1478,2023,0,7,1,11,{},Treatment
+Enrique Monares-Zepeda,2015.0,Early,M,0000-0003-1407-1478,2023,0,6,0,11,{},Treatment
+Enrique Monares-Zepeda,2015.0,Early,M,0000-0003-1407-1478,2023,0,2,1,6,{},Treatment
+Enrique Monares-Zepeda,2015.0,Early,M,0000-0003-1407-1478,2023,0,1,2,6,{},Treatment
+Enrique Monares-Zepeda,2015.0,Early,M,0000-0003-1407-1478,2023,0,2,0,5,"{'Mexico': 3, 'Nicaragua': 2}",Treatment
+Enrique Monares-Zepeda,2015.0,Early,M,0000-0003-1407-1478,2017,0,2,0,4,{},Treatment
+Enrique Monares-Zepeda,2015.0,Early,M,0000-0003-1407-1478,2017,0,4,0,12,{},Treatment
+Enrique Monares-Zepeda,2015.0,Early,M,0000-0003-1407-1478,2017,0,3,1,7,{},Treatment
+Enrique Monares-Zepeda,2015.0,Early,M,0000-0003-1407-1478,2017,4,4,0,12,{'Mexico': 12},Treatment
+Enrique Monares-Zepeda,2015.0,Early,M,0000-0003-1407-1478,2017,2,4,0,12,{'Mexico': 12},Treatment
+Leo Anthony G Celi,1998.0,Senior,M,0000-0001-6712-6626,2023,0,2,0,6,{},Treatment
+Leo Anthony G Celi,1998.0,Senior,M,0000-0001-6712-6626,2023,0,4,4,11,{},Treatment
+Leo Anthony G Celi,1998.0,Senior,M,0000-0001-6712-6626,2023,3,2,5,10,"{'Germany': 1, 'United States': 12, 'Italy': 8}",Treatment
+Leo Anthony G Celi,1998.0,Senior,M,0000-0001-6712-6626,2023,1,3,3,9,"{'North Macedonia': 4, 'United States': 6, 'United Kingdom': 1}",Treatment
+Leo Anthony G Celi,1998.0,Senior,M,0000-0001-6712-6626,2023,0,2,3,6,{},Treatment
+Leo Anthony G Celi,1998.0,Senior,M,0000-0001-6712-6626,2023,4,2,0,8,{'United States': 8},Treatment
+Leo Anthony G Celi,1998.0,Senior,M,0000-0001-6712-6626,2023,6,2,2,6,"{'United States': 4, 'Philippines': 1, 'Australia': 1, 'Malawi': 1, 'Canada': 1}",Treatment
+Leo Anthony G Celi,1998.0,Senior,M,0000-0001-6712-6626,2023,1,5,3,9,"{'Germany': 10, 'United States': 2}",Treatment
+Leo Anthony G Celi,1998.0,Senior,M,0000-0001-6712-6626,2023,0,8,3,12,{'United States': 13},Treatment
+Leo Anthony G Celi,1998.0,Senior,M,0000-0001-6712-6626,2023,14,5,1,7,"{'United Kingdom': 9, 'United States': 3}",Treatment
+Leo Anthony G Celi,1998.0,Senior,M,0000-0001-6712-6626,2023,1,6,2,11,{},Treatment
+Leo Anthony G Celi,1998.0,Senior,M,0000-0001-6712-6626,2023,1,0,0,4,{'United States': 5},Treatment
+Leo Anthony G Celi,1998.0,Senior,M,0000-0001-6712-6626,2023,15,3,0,4,{'United States': 5},Treatment
+Leo Anthony G Celi,1998.0,Senior,M,0000-0001-6712-6626,2023,2,1,0,3,{},Treatment
+Leo Anthony G Celi,1998.0,Senior,M,0000-0001-6712-6626,2023,5,4,6,14,"{'Germany': 6, 'United States': 10}",Treatment
+Leo Anthony G Celi,1998.0,Senior,M,0000-0001-6712-6626,2023,7,10,8,19,"{'Jordan': 4, 'United Kingdom': 1, 'United States': 10, 'Sudan': 2, 'Germany': 1, 'Malawi': 1, 'Thailand': 1, 'New Zealand': 1}",Treatment
+Leo Anthony G Celi,1998.0,Senior,M,0000-0001-6712-6626,2023,4,3,4,12,"{'United States': 14, 'Australia': 1}",Treatment
+Leo Anthony G Celi,1998.0,Senior,M,0000-0001-6712-6626,2023,0,20,3,25,{},Treatment
+Leo Anthony G Celi,1998.0,Senior,M,0000-0001-6712-6626,2023,21,3,4,10,"{'United States': 60, 'Brazil': 10}",Treatment
+Leo Anthony G Celi,1998.0,Senior,M,0000-0001-6712-6626,2023,10,2,2,6,"{'United States': 4, 'Colombia': 1, 'Chile': 1, 'Mexico': 1, 'Brazil': 1}",Treatment
+Neel J Shah,2021.0,Early,M,0000-0002-2503-048X,2023,1,2,2,7,{'United States': 9},Treatment
+Neel J Shah,2021.0,Early,M,0000-0002-2503-048X,2023,2,0,1,4,{'United States': 8},Treatment
+Jen-Ting Chen,2023.0,Early,U,0000-0002-8530-2520,2023,0,3,0,5,{'United States': 7},Treatment
+Ming-Yu Lu,2002.0,Mid,M,0000-0002-8663-9870,2023,7,4,1,5,{'China': 6},Treatment
+Ming-Yu Lu,2002.0,Mid,M,0000-0002-8663-9870,2023,0,2,2,4,{'China': 4},Treatment
+Ming-Yu Lu,2002.0,Mid,M,0000-0002-8663-9870,2023,6,3,0,3,{'China': 3},Treatment
+Ming-Yu Lu,2002.0,Mid,M,0000-0002-8663-9870,2023,1,2,3,5,"{'China': 4, 'United States': 1}",Treatment
+Ming-Yu Lu,2002.0,Mid,M,0000-0002-8663-9870,2023,2,4,2,6,{'China': 6},Treatment
+Ming-Yu Lu,2002.0,Mid,M,0000-0002-8663-9870,2023,0,4,2,6,{'China': 6},Treatment
+Ming-Yu Lu,2002.0,Mid,M,0000-0002-8663-9870,2023,1,4,2,6,{'China': 6},Treatment
+Ming-Yu Lu,2002.0,Mid,M,0000-0002-8663-9870,2023,6,3,1,4,{'China': 4},Treatment
+Ming-Yu Lu,2002.0,Mid,M,0000-0002-8663-9870,2023,6,2,2,4,{'China': 4},Treatment
+Ming-Yu Lu,2002.0,Mid,M,0000-0002-8663-9870,2023,1,5,1,6,{'China': 6},Treatment
+Ming-Yu Lu,2002.0,Mid,M,0000-0002-8663-9870,2023,1,3,2,5,{'China': 5},Treatment
+Ming-Yu Lu,2002.0,Mid,M,0000-0002-8663-9870,2023,6,5,3,8,{'China': 10},Treatment
+Ming-Yu Lu,2002.0,Mid,M,0000-0002-8663-9870,2023,0,3,1,4,{'China': 4},Treatment
+Ming-Yu Lu,2002.0,Mid,M,0000-0002-8663-9870,2023,4,3,1,4,"{'China': 3, 'United Kingdom': 1}",Treatment
+Ming-Yu Lu,2002.0,Mid,M,0000-0002-8663-9870,2023,5,3,2,5,{'China': 5},Treatment
+Ming-Yu Lu,2002.0,Mid,M,0000-0002-8663-9870,2023,0,4,0,4,{'China': 4},Treatment
+Ming-Yu Lu,2002.0,Mid,M,0000-0002-8663-9870,2023,6,3,2,5,{'China': 9},Treatment
+Ming-Yu Lu,2002.0,Mid,M,0000-0002-8663-9870,2023,2,3,1,4,{'China': 4},Treatment
+Ming-Yu Lu,2002.0,Mid,M,0000-0002-8663-9870,2023,7,5,3,8,{'China': 10},Treatment
+Ming-Yu Lu,2002.0,Mid,M,0000-0002-8663-9870,2023,1,2,3,5,{'China': 9},Treatment
+Teresa Martinez-Rincon,2020.0,Early,F,0000-0002-8891-0417,2023,2,10,1,11,{'Spain': 31},Treatment
+,,,U,0009-0004-4587-5115,2017,36,1,0,7,{'United States': 7},Treatment
+Robert David Stevens,1989.0,Senior,M,0000-0001-5984-7837,2023,2,5,2,8,"{'United States': 7, 'Germany': 1, 'Italy': 1, 'France': 1}",Treatment
+Robert David Stevens,1989.0,Senior,M,0000-0001-5984-7837,2023,11,2,2,9,"{'United Kingdom': 7, 'United States': 3, 'Italy': 1, 'Sweden': 2, 'Netherlands': 1}",Treatment
+Robert David Stevens,1989.0,Senior,M,0000-0001-5984-7837,2023,2,5,1,9,"{'Canada': 2, 'United States': 5, 'France': 6, 'Italy': 4}",Treatment
+Robert David Stevens,1989.0,Senior,M,0000-0001-5984-7837,2023,5,6,3,17,"{'United States': 12, 'Italy': 1, 'Netherlands': 1, 'United Kingdom': 1, 'France': 1, 'Austria': 1}",Treatment
+Robert David Stevens,1989.0,Senior,M,0000-0001-5984-7837,2023,0,3,0,4,"{'Canada': 1, 'United States': 4}",Treatment
+Robert David Stevens,1989.0,Senior,M,0000-0001-5984-7837,2023,34,7,3,13,"{'United States': 10, 'Denmark': 2, 'Belgium': 4, 'France': 1}",Treatment
+Robert David Stevens,1989.0,Senior,M,0000-0001-5984-7837,2023,12,5,2,8,"{'Italy': 5, 'France': 5, 'United States': 1, 'Belgium': 1, 'Spain': 3}",Treatment
+Robert David Stevens,1989.0,Senior,M,0000-0001-5984-7837,2023,0,2,1,5,{'United States': 5},Treatment
+Robert David Stevens,1989.0,Senior,M,0000-0001-5984-7837,2023,2,3,0,4,{'United States': 4},Treatment
+Robert David Stevens,1989.0,Senior,M,0000-0001-5984-7837,2023,2,6,3,11,{'United States': 13},Treatment
+Robert David Stevens,1989.0,Senior,M,0000-0001-5984-7837,2023,13,11,1,17,"{'Canada': 2, 'United States': 4, 'France': 6, 'Uruguay': 1, 'Argentina': 1, 'India': 1, 'Switzerland': 2, 'Mexico': 2, 'Italy': 4, 'Netherlands': 1, 'Thailand': 1, 'United Kingdom': 1, 'Japan': 1}",Treatment
+Robert David Stevens,1989.0,Senior,M,0000-0001-5984-7837,2023,16,4,3,9,"{'United States': 11, 'Canada': 1, 'France': 4, 'Italy': 5}",Treatment
+Robert David Stevens,1989.0,Senior,M,0000-0001-5984-7837,2023,0,3,3,8,{'United States': 6},Treatment
+Robert David Stevens,1989.0,Senior,M,0000-0001-5984-7837,2023,1,2,2,10,{},Treatment
+Robert David Stevens,1989.0,Senior,M,0000-0001-5984-7837,2023,3,3,3,10,{'United States': 10},Treatment
+Robert David Stevens,1989.0,Senior,M,0000-0001-5984-7837,2017,0,2,4,7,{'United States': 7},Treatment
+Robert David Stevens,1989.0,Senior,M,0000-0001-5984-7837,2017,13,4,0,8,"{'United States': 12, 'New Zealand': 2}",Treatment
+Robert David Stevens,1989.0,Senior,M,0000-0001-5984-7837,2017,67,12,4,19,{},Treatment
+Robert David Stevens,1989.0,Senior,M,0000-0001-5984-7837,2017,30,3,1,8,"{'United States': 19, 'Poland': 2}",Treatment
+Robert David Stevens,1989.0,Senior,M,0000-0001-5984-7837,2017,44,1,1,12,{'United States': 17},Treatment
+Christopher Loren Jenks,2011.0,Mid,M,0000-0002-4557-0002,2017,94,0,1,3,{'United States': 5},Treatment
+Christopher Loren Jenks,2011.0,Mid,M,0000-0002-4557-0002,2017,34,2,1,5,{'United States': 5},Treatment
+Christopher Loren Jenks,2011.0,Mid,M,0000-0002-4557-0002,2017,12,2,3,9,{'United States': 10},Treatment
+Christopher Loren Jenks,2011.0,Mid,M,0000-0002-4557-0002,2017,24,1,2,4,{'United States': 7},Treatment
+Christopher Loren Jenks,2011.0,Mid,M,0000-0002-4557-0002,2017,15,3,2,5,{'United States': 5},Treatment
